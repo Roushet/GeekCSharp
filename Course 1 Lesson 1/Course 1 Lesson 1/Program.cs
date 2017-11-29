@@ -19,10 +19,6 @@ namespace Questionnaire
             int height = 0;
             int bodyMass = 0;
 
-            int ageNum = 0;
-            int heightNum = 0;
-            int bodyMassNum = 0;
-            
             //Добавляю для красоты
             TextInfo myTI = new CultureInfo("ru-RU", false).TextInfo;
 
@@ -53,19 +49,37 @@ namespace Questionnaire
                 + myTI.ToTitleCase(name) 
                 + " "
                 + myTI.ToTitleCase(surename)
-                + " ваш возраст "
-                + age.ToString()
-                + " ваш рост "
-                + height.ToString()
+                + ", ваш возраст "
+                + age
+                + ", ваш рост "
+                + height
                 + "(см) и ваш вес "
                 + bodyMass
-                +"(кг) \n Спасибо."
+                +"(кг). \n Спасибо."
                 );
 
+            WriteLine("Нажмите любую клавишу для продолжения. \n");
             ReadKey();
 
             WriteLine("Вывод через форматирование. \n");
-            WriteLine();
+
+            WriteLine("Вас зовут {0} {1}, ваш возраст {2}, ваш рост {3}(см), ваш вес {4}(кг).\nСпасибо.", 
+                myTI.ToTitleCase(name), myTI.ToTitleCase(surename), age, height, bodyMass);
+
+            WriteLine("Нажмите любую клавишу для продолжения. \n");
+            ReadKey();
+
+            WriteLine("Вывод через $-форматирование \n");
+
+            WriteLine($"Вас зовут {name} {surename}, ваш возраст {age}, ваш рост {height}(см), ваш вес {bodyMass}(кг).\nСпасибо.");
+
+            WriteLine("Нажмите любую клавишу для продолжения. \n");
+            ReadKey();
+
+            WriteLine("Ваш индекс массы тела: {0:F2}", BMI(bodyMass, height));
+
+            WriteLine("Нажмите любую клавишу для продолжения. \n");
+            ReadKey();
         }
 
         /// <summary>
@@ -90,6 +104,13 @@ namespace Questionnaire
                 }
             }
             return result;
+        }
+
+        static float BMI(int bodyMass, int height)
+        {
+            float heightM = (float)height / 100;
+
+            return (bodyMass / (heightM * heightM));
         }
     }
 }

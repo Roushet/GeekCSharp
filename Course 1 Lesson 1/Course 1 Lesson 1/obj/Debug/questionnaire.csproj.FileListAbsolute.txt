@@ -1,0 +1,6 @@
+D:\Users\MegaDevice\Source\Repos\GeekCSharp\Course 1 Lesson 1\Course 1 Lesson 1\bin\Debug\Course 1 Lesson 1.exe.config
+D:\Users\MegaDevice\Source\Repos\GeekCSharp\Course 1 Lesson 1\Course 1 Lesson 1\bin\Debug\Course 1 Lesson 1.exe
+D:\Users\MegaDevice\Source\Repos\GeekCSharp\Course 1 Lesson 1\Course 1 Lesson 1\bin\Debug\Course 1 Lesson 1.pdb
+D:\Users\MegaDevice\Source\Repos\GeekCSharp\Course 1 Lesson 1\Course 1 Lesson 1\obj\Debug\questionnaire.csprojResolveAssemblyReference.cache
+D:\Users\MegaDevice\Source\Repos\GeekCSharp\Course 1 Lesson 1\Course 1 Lesson 1\obj\Debug\Course 1 Lesson 1.exe
+D:\Users\MegaDevice\Source\Repos\GeekCSharp\Course 1 Lesson 1\Course 1 Lesson 1\obj\Debug\Course 1 Lesson 1.pdb

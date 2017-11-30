@@ -1,0 +1,6 @@
+D:\Users\MegaDevice\Source\Repos\GeekCSharp\Course 1 Lesson 1\Distance2D\bin\Debug\Distance2D.exe.config
+D:\Users\MegaDevice\Source\Repos\GeekCSharp\Course 1 Lesson 1\Distance2D\bin\Debug\Distance2D.exe
+D:\Users\MegaDevice\Source\Repos\GeekCSharp\Course 1 Lesson 1\Distance2D\bin\Debug\Distance2D.pdb
+D:\Users\MegaDevice\Source\Repos\GeekCSharp\Course 1 Lesson 1\Distance2D\obj\Debug\Distance2D.csprojResolveAssemblyReference.cache
+D:\Users\MegaDevice\Source\Repos\GeekCSharp\Course 1 Lesson 1\Distance2D\obj\Debug\Distance2D.exe
+D:\Users\MegaDevice\Source\Repos\GeekCSharp\Course 1 Lesson 1\Distance2D\obj\Debug\Distance2D.pdb

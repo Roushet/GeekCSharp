@@ -3,3 +3,4 @@ D:\Users\MegaDevice\Source\Repos\GeekCSharp\Course 1 Lesson 1\ConsoleTools\bin\D
 D:\Users\MegaDevice\Source\Repos\GeekCSharp\Course 1 Lesson 1\ConsoleTools\bin\Debug\ConsoleTools.pdb
 D:\Users\MegaDevice\Source\Repos\GeekCSharp\Course 1 Lesson 1\ConsoleTools\obj\Debug\ConsoleTools.exe
 D:\Users\MegaDevice\Source\Repos\GeekCSharp\Course 1 Lesson 1\ConsoleTools\obj\Debug\ConsoleTools.pdb
+D:\Users\MegaDevice\Source\Repos\GeekCSharp\Course 1 Lesson 1\ConsoleTools\obj\Debug\ConsoleTools.csprojResolveAssemblyReference.cache

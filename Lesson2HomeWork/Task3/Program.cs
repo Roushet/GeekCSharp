@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using static System.Console;
 
+//Евдокимов Владимир
 // 3. С клавиатуры вводятся числа, пока не будет введен 0. Подсчитать сумму всех нечетных положительных чисел.
 
 namespace Task3

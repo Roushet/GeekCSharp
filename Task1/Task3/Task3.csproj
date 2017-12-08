@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BF80ACB3-851A-4859-8890-74EBA9874903}</ProjectGuid>
+    <ProjectGuid>{7D917D2F-32BE-480F-A4CD-A474BE0715E7}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Lesson3HomeWork</RootNamespace>
-    <AssemblyName>Lesson3HomeWork</AssemblyName>
+    <RootNamespace>Task3</RootNamespace>
+    <AssemblyName>Task3</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,8 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ComplexStruct.cs" />
-    <Compile Include="Complex.cs" />
+    <Compile Include="Fraction.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

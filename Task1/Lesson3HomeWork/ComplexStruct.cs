@@ -6,18 +6,12 @@ using System.Threading.Tasks;
 
 namespace Lesson3HomeWork
 {
-    class Complex
+    struct ComplexStruct
     {
         double im;
         double re;
 
-        public Complex​()
-        {
-            im = 0;
-            re = 0;
-        }
-
-        public Complex​(double _re, double _im)
+        public ComplexStruct(double _re​, double _im)
         {
             this.im = _im;
             this.re = _re;
@@ -28,9 +22,9 @@ namespace Lesson3HomeWork
         /// </summary>
         /// <param name="x2"></param>
         /// <returns></returns>
-        public Complex Plus​(Complex x2)
+        public ComplexStruct Plus​(ComplexStruct x2)
         {
-            Complex x3 = new Complex​();
+            ComplexStruct x3 = new ComplexStruct();
             x3​.im = x2​.im + im;
             x3​.re = x2​.re + re;
             return x3;
@@ -40,9 +34,9 @@ namespace Lesson3HomeWork
         /// </summary>
         /// <param name="x2"></param>
         /// <returns></returns>
-        public Complex Minus(Complex x2)
+        public ComplexStruct Minus(ComplexStruct x2)
         {
-            Complex x3 = new Complex​();
+            ComplexStruct x3 = new ComplexStruct();
             x3​.im = x2​.im - im;
             x3​.re = x2​.re - re;
             return x3;
@@ -53,10 +47,10 @@ namespace Lesson3HomeWork
         /// </summary>
         /// <param name="x2"></param>
         /// <returns></returns>
-        public Complex Multiply(Complex x2)
+        public ComplexStruct Multiply(ComplexStruct x2)
         {
             //тут в методичке использовалась неправильная формула произведения
-            Complex x3 = new Complex​();
+            ComplexStruct x3 = new ComplexStruct();
             x3​.re = (x2​.re * re - x2.im * im);
             x3​.im = (x2​.re * re + x2.im * im);
             return x3;

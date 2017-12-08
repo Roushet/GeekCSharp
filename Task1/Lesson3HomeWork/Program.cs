@@ -14,11 +14,48 @@ namespace Lesson3HomeWork
     {
         static void Main(string[] args)
         {
-            Complex num1 = new Complex(1, 2);
+            Complex num1 = new Complex(11, 2);
+            Complex num2 = new Complex(-5, 1);
 
-            Complex num2 = new Complex(3, 5);
+            //демонстрация работы класса
+            Console.WriteLine("Числа, использование оверрайда для ToString()");
+            Console.WriteLine(num1.ToString());
+            Console.WriteLine(num2.ToString());
 
-           num1.Plus(num2);
+            Console.WriteLine("Сумма чисел");
+            Console.WriteLine(num1.Plus(num2));
+
+            Console.WriteLine("Произведение чисел, использование оверрайда для ToString()");
+            Console.WriteLine(num1.Multiply(num2).ToString());
+
+            Console.WriteLine("Вывод мнимой части числа 1");
+            Console.WriteLine(num1.Im);
+
+            Console.WriteLine("Вывод действительной части числа 1");
+            Console.WriteLine(num1.Re);
+
+            Console.WriteLine("Использование структуры");
+
+            ComplexStruct num3 = new ComplexStruct(-8, 22);
+            ComplexStruct num4 = new ComplexStruct(12, -5);
+
+            Console.WriteLine("Числа, использование оверрайда для ToString()");
+            Console.WriteLine(num3.ToString());
+            Console.WriteLine(num4.ToString());
+
+            Console.WriteLine("Сумма чисел");
+            Console.WriteLine(num3.Plus(num4));
+
+            Console.WriteLine("Произведение чисел, использование оверрайда для ToString()");
+            Console.WriteLine(num3.Multiply(num4).ToString());
+
+            Console.WriteLine("Вывод мнимой части числа 1");
+            Console.WriteLine(num3.Im);
+
+            Console.WriteLine("Вывод действительной части числа 1");
+            Console.WriteLine(num3.Re);
+
+            Console.ReadKey();
         }
     }
 }

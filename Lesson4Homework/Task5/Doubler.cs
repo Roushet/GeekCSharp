@@ -26,7 +26,12 @@ namespace Task5
             _finish = 1;
         }
 
-        public int finish
+        public int Current
+        {
+            get => _current;
+        }
+
+        public int Finish
         {
             get => _finish;
             set => _finish = value;

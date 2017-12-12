@@ -20,7 +20,20 @@ namespace Task4
 
         static void Main(string[] args)
         {
+            Array2D arr = new Array2D(3, 3, 5, 10);
+            arr.Write(arr, "C:\\Temp\\1.txt");
 
+            Console.WriteLine(arr.ToString());
+            Console.WriteLine();
+
+            arr.Clear();
+            Console.WriteLine(arr.ToString());
+            Console.WriteLine();
+
+            arr = arr.Read("C:\\Temp\\1.txt");
+            Console.WriteLine(arr.ToString());
+
+            Console.ReadKey();
         }
     }
 }

@@ -32,6 +32,10 @@ namespace Task4
                     arr[i, j] = random.Next(min, max);
         }
 
+        /// <summary>
+        /// Возвращает сумму всех элементов массива
+        /// </summary>
+        /// <returns></returns>
         public int Sum()
         {
             int sum = 0;
@@ -42,7 +46,12 @@ namespace Task4
             return sum;
         }
 
-        private int SumHigherThan(int value)
+        /// <summary>
+        /// возвращает сумму всех элементов, значние которых больше чем...
+        /// </summary>
+        /// <param name="value"></param>
+        /// <returns></returns>
+        public int SumHigherThan(int value)
         {
             int sum = 0;
 
@@ -51,14 +60,19 @@ namespace Task4
                     if (arr[i, j] > value) sum += arr[i, j];
             return sum;
         }
-
+        /// <summary>
+        /// Очищает массив: делает значение всех элементов
+        /// равным нулю
+        /// </summary>
         public void Clear()
         {
             for (int i = 0; i < arr.GetLength(0); i++)
                 for (int j = 0; j < arr.GetLength(1); j++)
                     arr[i, j] = 0;
         }
-
+        /// <summary>
+        /// Возвращает минимальное значение из массива
+        /// </summary>
         public int Min
         {
             get
@@ -71,7 +85,10 @@ namespace Task4
                 return min;
             }
         }
-
+        
+        /// <summary>
+        /// Возвращает максимальное значение
+        /// </summary>
         public int Max
         {
             get
@@ -85,6 +102,10 @@ namespace Task4
             }
         }
 
+        /// <summary>
+        /// Возвращает индекс первого максимального элемента
+        /// в массиве
+        /// </summary>
         public int[] MaxIndex
         {
             get
@@ -106,6 +127,13 @@ namespace Task4
 
         }
 
+        /// <summary>
+        /// Возвращает индекс первого максимального элемента 
+        /// в массиве с помощью реф
+        /// </summary>
+        /// <param name="horizontal"></param>
+        /// <param name="vertical"></param>
+        /// <returns></returns>
         public int RefMaxIndex(out int horizontal, out int vertical)
         {
             horizontal = 0;
@@ -124,6 +152,11 @@ namespace Task4
             return max;
         }
 
+        /// <summary>
+        /// Пишет массив в текстовый файл с указанным адресом
+        /// </summary>
+        /// <param name="arr"></param>
+        /// <param name="address"></param>
         public void Write(Array2D arr, string address)
         {
             StreamWriter writer = new StreamWriter(address);
@@ -131,6 +164,12 @@ namespace Task4
             writer.Close();
         }
 
+        /// <summary>
+        /// Индексатор для работы с массивом
+        /// </summary>
+        /// <param name="index1"></param>
+        /// <param name="index2"></param>
+        /// <returns></returns>
         public int this[int index1, int index2]    // Indexer declaration  
         {
             get => arr[index1, index2];
@@ -138,6 +177,11 @@ namespace Task4
 
         }
 
+        /// <summary>
+        /// Читает массив из файл и создаёт массив для него
+        /// </summary>
+        /// <param name="address"></param>
+        /// <returns></returns>
         public Array2D Read(string address)
         {
             StreamReader reader = new StreamReader(address);
@@ -147,7 +191,7 @@ namespace Task4
 
             Array2D newarr = new Array2D(horizontal.Length, vertical.Length);
 
-            for (int i = 0; i < vertical.Length; i++)
+            for (int i = 0; i < horizontal.Length; i++)
             {
                 string[] currentRow = horizontal[i].Split((new char[] { ',' }));
                 for (int j = 0; j < currentRow.Length; j++)
@@ -158,6 +202,10 @@ namespace Task4
             return newarr;
         }
 
+        /// <summary>
+        /// Оверрайд метода стринг, используется при выводе в файл
+        /// </summary>
+        /// <returns></returns>
         public override string ToString()
         {
             string ouput = "";

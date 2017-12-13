@@ -7,6 +7,8 @@ using System.Threading.Tasks;
 
 namespace Task4
 {
+    //Евдокимов Владимир
+
     //Реализовать конструктор,
     //заполняющий массив случайными числами. Создать методы, которые возвращают сумму
     //всех элементов массива, сумму всех элементов массива больше заданного, свойство,
@@ -185,7 +187,7 @@ namespace Task4
         public Array2D Read(string address)
         {
             StreamReader reader = new StreamReader(address);
-            string temp = reader.ReadToEnd().TrimEnd(Environment.NewLine.ToCharArray());
+            string temp = reader.ReadToEnd().TrimEnd(Environment.NewLine.ToCharArray()); //простите меня за этот колхоз
             string[] horizontal = temp.Split((new char[] { '\n' }));
             string[] vertical = horizontal[0].Split((new char[] { ',' }));
 
@@ -208,20 +210,20 @@ namespace Task4
         /// <returns></returns>
         public override string ToString()
         {
-            string ouput = "";
+            string output = "";
             for (int i = 0; i < arr.GetLength(0); i++)
             {
                 for (int j = 0; j < arr.GetLength(1); j++)
                 {
-                    ouput += arr[i, j];
-                    if (j != arr.GetLength(1)-1) ouput += ",";
+                    output += arr[i, j];
+                    if (j != arr.GetLength(1)-1) output += ",";
                     ;
                 }
 
                 if (i != arr.GetLength(0)-1)
-                    ouput += "\n"; // Переход на новую строчку
+                    output += "\n"; // Переход на новую строчку
             }
-            return ouput;
+            return output;
         }
     }
 }

@@ -1,5 +1,0 @@
-D:\Users\MegaDevice\Source\Repos\GeekCSharp\Course 1 Lesson 1\VariableExchange\bin\Debug\VariableExchange.exe.config
-D:\Users\MegaDevice\Source\Repos\GeekCSharp\Course 1 Lesson 1\VariableExchange\bin\Debug\VariableExchange.exe
-D:\Users\MegaDevice\Source\Repos\GeekCSharp\Course 1 Lesson 1\VariableExchange\bin\Debug\VariableExchange.pdb
-D:\Users\MegaDevice\Source\Repos\GeekCSharp\Course 1 Lesson 1\VariableExchange\obj\Debug\VariableExchange.exe
-D:\Users\MegaDevice\Source\Repos\GeekCSharp\Course 1 Lesson 1\VariableExchange\obj\Debug\VariableExchange.pdb

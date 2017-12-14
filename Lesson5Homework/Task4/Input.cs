@@ -38,7 +38,7 @@ namespace Task4
                 {
                     try
                     {
-                        grades[j] = Convert.ToInt32(processed[j]);
+                        grades[j-2] = Convert.ToInt32(processed[j]);
                     }
                     catch (FormatException)
                     {

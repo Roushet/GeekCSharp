@@ -25,9 +25,29 @@ namespace Task4
         //есть ученики, набравшие тот же средний балл, что и один из трех худших, то следует вывести и их фамилии и имена.
         static void Main(string[] args)
         {
+            string[] rawData = Input.LoadDataFromFile("..\\Pupils.txt");
+            Console.WriteLine($"В файле содержаться данные на {rawData[0]} учеников");
+            
+            Pupil[] pupils = new Pupil[Convert.ToInt32(rawData[0])];
+            string name = "";
+            string surename = "";
+            int[] grades = new int[3];
 
+            for (int i = 1; i < rawData.Length; i++)
+            {
+                Console.WriteLine($"Ученик {i}: {rawData[i]}");
+                Input.ParseDataString(rawData[i], out name, out surename, out grades);
+
+                pupils[i - 1].Name = name;
+                pupils[i - 1].Surename = surename;
+                pupils[i - 1][0]= grades[0];
+                pupils[i - 1][1] = grades[1];
+                pupils[i - 1][2] = grades[2];
+            }
+
+            Console.ReadKey();
         }
 
-  
+
     }
 }

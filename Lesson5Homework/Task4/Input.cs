@@ -32,13 +32,14 @@ namespace Task4
             grades = new int[processed.Length - 2];
             for (int i = 0; i < processed.Length; i++)
             {
-                name = processed[0];
-                surename = processed[1];
+                surename = processed[0].Trim(new char[] { '\r', '\n', '\t' });
+                name = processed[1].Trim(new char[] { '\r', '\n', '\t' });
+
                 for (int j = 2; j < processed.Length; j++)
                 {
                     try
                     {
-                        grades[j-2] = Convert.ToInt32(processed[j]);
+                        grades[j - 2] = Convert.ToInt32(processed[j]);
                     }
                     catch (FormatException)
                     {
@@ -56,36 +57,6 @@ namespace Task4
 
 
 
-        /// <summary>
-        /// Считывает ввод из консоли, который удовлетворяет
-        /// паттерну регекспа и максимальной длине
-        /// </summary>
-        /// <param name="lenght">максимальная длина строки</param>
-        /// <param name="pattern">паттерн ввода</param>
-        private static string GetLimitedString(int lenght, string pattern)
-        {
-            int counter = 0;
-            ConsoleKeyInfo key;
-            Regex regex = new Regex(pattern);
-            string output = "";
-            do
-            {
-                key = Console.ReadKey(true);
-
-                if (key.Key == ConsoleKey.Enter) return output;
-
-                if (regex.IsMatch(key.KeyChar.ToString()))
-                {
-                    counter++;
-                    Console.Write(key.KeyChar.ToString());
-                    output += key.KeyChar.ToString();
-                }
-                else Console.Beep();
-
-            } while (counter < lenght);
-
-            return output;
-        }
     }
 
     public class InputException : Exception

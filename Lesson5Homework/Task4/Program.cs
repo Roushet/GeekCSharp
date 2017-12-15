@@ -27,29 +27,72 @@ namespace Task4
         {
             string[] rawData = Input.LoadDataFromFile("..\\Pupils.txt");
             Console.WriteLine($"В файле содержаться данные на {rawData[0]} учеников");
-            
-            Pupil[] pupils = new Pupil[Convert.ToInt32(rawData[0])];
-            string name = "";
-            string surename = "";
-            int[] grades = new int[3];
 
-            for (int i = 1; i < rawData.Length; i++)
+            Pupil[] pupils = Pupil.ListPupils(rawData);
+            int i = 1;
+            //список учеников, если нужен
+            //foreach (var p in pupils)
+            //{
+            //    Console.WriteLine($"Ученик {i} {p.Name} {p.Surename} средний бал {p.Average}");
+            //    i++;
+            //}
+
+            //Сортирую учеников
+            PupilBuble(pupils);
+
+            Console.WriteLine("\n");
+
+            Console.WriteLine("Вывод трёх самых худших по среднему баллу учеников:");
+            for (i = 0; i < 3; i++)
             {
-                Console.WriteLine($"Ученик {i}: {rawData[i]}");
-                Input.ParseDataString(rawData[i], out name, out surename, out grades);
-
-                pupils[i - 1] =  new Pupil();
-
-                pupils[i - 1].Name = name;
-                pupils[i - 1].Surename = surename;
-                pupils[i - 1][0]= grades[0];
-                pupils[i - 1][1] = grades[1];
-                pupils[i - 1][2] = grades[2];
+                Console.WriteLine($"Ученик {i}\t {pupils[i].Name} {pupils[i].Surename} средний бал {pupils[i].Average}");
             }
+            Console.WriteLine("\nДругие ученики с таким же средним баллом");
+            i = 3;
+            while (pupils[i].Average == pupils[2].Average)
+            {
+                Console.WriteLine($"Ученик {i}\t {pupils[i].Name} {pupils[i].Surename} средний бал {pupils[i].Average}");
+                i++;
+            }
+
 
             Console.ReadKey();
         }
 
+        /// <summary>
+        /// Пузырьковая сортировка учеников
+        /// по среднему баллу
+        /// </summary>
+        /// <param name="pupils"></param>
+        public static void PupilBuble(Pupil[] pupils)
+        {
+            for (int i = 0; i < pupils.Length; i++)
+            {
+                for (int j = 0; j < pupils.Length - i - 1; j++)
+                {
+                    if (pupils[j].Average > pupils[j + 1].Average) 
+                    {
+                        Swap(pupils, j, j + 1);
+                    }
+                }
+            }
+        }
+
+        /// <summary>
+        /// Вспомогательный метод обмена местами элементов 
+        /// массива для пузырьковой сортировки
+        /// </summary>
+        /// <param name="pupils"></param>
+        /// <param name="pos1"></param>
+        /// <param name="pos2"></param>
+        public static void Swap(Pupil[] pupils, int pos1, int pos2)
+        {
+            Pupil temp;
+            temp = pupils[pos1];
+            pupils[pos1] = pupils[pos2];
+            pupils[pos2] = temp;
+
+        }
 
     }
 }

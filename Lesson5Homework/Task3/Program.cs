@@ -16,8 +16,8 @@ namespace Task3
     {
         static void Main(string[] args)
         {
-            string str1 = "hjdakjhdkajshdkjahdkja";
-            string str2 = "hjdakjhdkajshdkjahdkja";
+            string str1 = "куча мала";
+            string str2 = "куча мала";
 
             Console.WriteLine($"Результат сравнения методом C# {str1} и {str2} : {Interchange(str1, str2)}");
             Console.WriteLine($"Результат сравнения перебором {str1} и {str2} : {InterchangeCycle(str1, str2)}");
@@ -40,7 +40,7 @@ namespace Task3
 
             Array.Sort(arr1);
             Array.Sort(arr2);
-            
+
             //Используется метод из Linq
             return arr1.SequenceEqual(arr2);
         }
@@ -64,9 +64,8 @@ namespace Task3
             bool result = true;
 
             for (int i = 0; i < arr1.Length; i++)
-            {
                 if (arr1[i] != arr2[i]) result = false;
-            }
+
             return result;
         }
     }

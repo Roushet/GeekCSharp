@@ -7,49 +7,21 @@ using System.Threading.Tasks;
 
 namespace Task3
 {
+    //Владимир Евдокимов
+            //3. Подсчитать количество студентов:
+
+            //а) учащихся на 5 и 6 курсах;
+            //б)подсчитать сколько студентов в возрасте от 18 до 20 лет на каком курсе учатся(частотный массив);
+            //в) отсортировать список по возрасту студента;
+            //г) * отсортировать список по курсу и возрасту студента.
+            //Дополнительное домашнее задание
+
     class Program
     {
-        static int AlphabeticSort(Student st1, Student st2) // Создаем метод для сравнения для экземпляров
-        {
-            return String.Compare(st1.firstName, st2.firstName); // Сравниваем две строки
-        }
-
-        static int AgeSort(Student st1, Student st2) // Создаем метод для сравнения для экземпляров
-        {
-            return st1.age.CompareTo(st2.age); // Сравниваем две строки
-        }
-
-        static int CourceAgeSort(Student st1, Student st2) // Создаем метод для сравнения для экземпляров
-        {
-            return st1.age.CompareTo(st2.age); // Сравниваем две строки
-        }
-
-        //метод для делегата подсчёта студентов по возрасту
-        //[курс] число
-        static int[] CourceFromList(List<Student> list)
-        {
-            int maxCource = 0;
-            foreach (Student st in list)
-            {
-                if (st.course > maxCource) maxCource = st.course;
-            }
-
-            int[] result = new int[maxCource];
-            foreach (Student st in list)
-            {
-                    result[st.course - 1]++;
-            }
-            return result;
-        }
-
-        //предикат для пятого и шестого курса
-        static bool CourseHigherThan(Student student)
-        {
-            return (student.course > 4) ? true : false;
-        }
 
         static void Main(string[] args)
         {
+            #region Код из методички
             int bakalav = 0;
             int magistr = 0;
             List<Student> list = new List<Student>(); // Создаем список студентов
@@ -78,21 +50,15 @@ namespace Task3
             Console.WriteLine("Всего студентов:" + list.Count);
             Console.WriteLine("Магистров:{0}", magistr);
             Console.WriteLine("Бакалавров:{0}", bakalav);
+            #endregion
 
-            foreach (var v in list) Console.WriteLine(v.firstName);
-            Console.WriteLine();
-
-            //в) отсортировать список по возрасту студента;
-            list.Sort(new Comparison<Student>(AgeSort));
-            foreach (var v in list) Console.WriteLine($"{v.firstName} {v.lastName}\t {v.age}");
-
-            //а) учащихся на 5 и 6 курсах;
+            #region а) учащихся на 5 и 6 курсах;
             Console.WriteLine("Учащихся 5 и 6 курсов:" + list.Count<Student>(CourseHigherThan));
-
             //или через лямбда
             Console.WriteLine("Учащихся 5 и 6 курсов ЛЯМБДА:" + list.Count<Student>(st => st.course > 4));
-
-            //б)подсчитать сколько студентов в возрасте от 18 до 20 лет на каком курсе учатся(частотный массив);
+            #endregion
+            Console.WriteLine();
+            #region б)подсчитать сколько студентов в возрасте от 18 до 20 лет на каком курсе учатся(частотный массив);
 
             for (int i = 18; i <= 20; i++)
             {
@@ -101,24 +67,91 @@ namespace Task3
                 PrintTable(CourceFromList(studentsByAge));
             }
 
-            //list.OrderBy(s => s.course).ThenBy(s => s.age);
-            //foreach (var v in list) Console.WriteLine("{0,14} | {1,14} | {2,14} | {3,14} ", v.firstName, v.lastName, v.course, v.age);
+            #endregion
             Console.WriteLine();
+            #region в) отсортировать список по возрасту студента;
 
+            list.Sort(new Comparison<Student>(AgeSort));
+            Console.WriteLine("Сортировка по возрасту студента");
+            foreach (var v in list) Console.WriteLine("{0,14} | {1,14} | {2,14} | {3,14} ", v.firstName, v.lastName, v.course, v.age);
+            #endregion
+            Console.WriteLine();
+            #region г) *отсортировать список по курсу и возрасту студента.
             for (int i = 1; i <= 6; i++)
             {
                 List<Student> studentsCource = list.FindAll(s => s.course == i);
                 studentsCource.OrderBy(s => s.age);
                 foreach (var v in studentsCource) Console.WriteLine("{0,14} | {1,14} | {2,14} | {3,14} ", v.firstName, v.lastName, v.course, v.age);
             }
+            #endregion
+
+            //list.OrderBy(s => s.course).ThenBy(s => s.age); - не работает
 
             Console.WriteLine(DateTime.Now - dt);
             Console.ReadKey();
         }
 
+        /// <summary>
+        /// Сортировка по алфавиту
+        /// </summary>
+        /// <param name="st1"></param>
+        /// <param name="st2"></param>
+        /// <returns></returns>
+        static int AlphabeticSort(Student st1, Student st2)
+        {
+            return String.Compare(st1.firstName, st2.firstName);
+        }
+
+        /// <summary>
+        /// Сортировка по возрасту
+        /// </summary>
+        /// <param name="st1"></param>
+        /// <param name="st2"></param>
+        /// <returns></returns>
+        static int AgeSort(Student st1, Student st2) // Создаем метод для сравнения для экземпляров
+        {
+            return st1.age.CompareTo(st2.age); // Сравниваем две строки
+        }
+
+        /// <summary>
+        /// Сортировка по возрасту в частотный массив
+        /// </summary>
+        /// <param name="list"></param>
+        /// <returns></returns>
+        static int[] CourceFromList(List<Student> list)
+        {
+            int maxCource = 0;
+            foreach (Student st in list)
+            {
+                if (st.course > maxCource) maxCource = st.course;
+            }
+
+            int[] result = new int[maxCource];
+            foreach (Student st in list)
+            {
+                result[st.course - 1]++;
+            }
+            return result;
+        }
+
+        /// <summary>
+        /// Предикат для отсортировки студентов по курсу
+        /// </summary>
+        /// <param name="student"></param>
+        /// <returns></returns>
+        static bool CourseHigherThan(Student student)
+        {
+            //не смог придумать, как передавать курс параметром в предикат 8(
+            return (student.course > 4) ? true : false;
+        }
+
+        /// <summary>
+        /// Вспомогательный метод, который выводит в консоль таблицу частотного массива
+        /// </summary>
+        /// <param name="table"></param>
         static void PrintTable(int[] table)
         {
-            for (int i = 0; i < table.Length; i++) Console.WriteLine($"курс {i+1} : студентов {table[i]}");
+            for (int i = 0; i < table.Length; i++) Console.WriteLine($"курс {i + 1} : студентов {table[i]}");
             Console.WriteLine();
         }
 

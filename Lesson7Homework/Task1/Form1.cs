@@ -35,14 +35,6 @@ namespace Task1
 
         }
 
-        private void ClearForm()
-        {
-            foreach (Control ctrl in Controls)
-            {
-                if (ctrl.Name.Contains("btn"))
-                    this.Controls.Remove(ctrl);
-            }
-        }
 
 
         private void Hover(object sender, EventArgs e)
@@ -104,6 +96,11 @@ namespace Task1
 
             this.Height = this.Size.Height + 50;
             this.Refresh();
+        }
+
+        private void testToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Cell.Wave();
         }
     }
 }

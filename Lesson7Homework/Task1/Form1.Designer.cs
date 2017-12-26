@@ -34,6 +34,7 @@
             this.menuNewMedium = new System.Windows.Forms.ToolStripMenuItem();
             this.menuNewBig = new System.Windows.Forms.ToolStripMenuItem();
             this.menuHelp = new System.Windows.Forms.ToolStripMenuItem();
+            this.testToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -53,7 +54,8 @@
             this.menuNew.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.menuNewSmall,
             this.menuNewMedium,
-            this.menuNewBig});
+            this.menuNewBig,
+            this.testToolStripMenuItem});
             this.menuNew.Name = "menuNew";
             this.menuNew.Size = new System.Drawing.Size(121, 20);
             this.menuNew.Text = "Новый поиск пути";
@@ -85,6 +87,13 @@
             this.menuHelp.Size = new System.Drawing.Size(68, 20);
             this.menuHelp.Text = "Помощь";
             // 
+            // testToolStripMenuItem
+            // 
+            this.testToolStripMenuItem.Name = "testToolStripMenuItem";
+            this.testToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.testToolStripMenuItem.Text = "Test";
+            this.testToolStripMenuItem.Click += new System.EventHandler(this.testToolStripMenuItem_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -110,6 +119,7 @@
         private System.Windows.Forms.ToolStripMenuItem menuNewMedium;
         private System.Windows.Forms.ToolStripMenuItem menuNewBig;
         private System.Windows.Forms.ToolStripMenuItem menuHelp;
+        private System.Windows.Forms.ToolStripMenuItem testToolStripMenuItem;
     }
 }
 

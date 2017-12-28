@@ -55,6 +55,7 @@
       <SubType>Designer</SubType>
     </ApplicationDefinition>
     <Compile Include="Reader.cs" />
+    <Compile Include="StudentList.cs" />
     <Compile Include="StudentSerializable.cs" />
     <Compile Include="XMLWriter.cs" />
     <Page Include="MainWindow.xaml">

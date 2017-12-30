@@ -1,0 +1,2203 @@
+<?xml version="1.0"?>
+<ArrayOfStudentSerializable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <StudentSerializable>
+    <firstName>Онисим</firstName>
+    <lastName>Толбанов</lastName>
+    <univercity>Institute of Topical Education “UrInfo-MSU”</univercity>
+    <faculty>Биологический факультет</faculty>
+    <profession>ФH3 Теоретическая механика</profession>
+    <age>21</age>
+    <cource>5</cource>
+    <group>20</group>
+    <city>Питкяранта</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Ираклий</firstName>
+    <lastName>Квартовский</lastName>
+    <univercity>Maimonid State Classical Academy</univercity>
+    <faculty>Филологический факультет</faculty>
+    <profession>CМ5 Автономные информационные и управляющие системы</profession>
+    <age>23</age>
+    <cource>6</cource>
+    <group>1</group>
+    <city>Электросталь</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Иван</firstName>
+    <lastName>Ясногородский</lastName>
+    <univercity>University of Pereslavl</univercity>
+    <faculty>Институт стран Азии и Африки</faculty>
+    <profession>ИБМ5 Финансы</profession>
+    <age>18</age>
+    <cource>3</cource>
+    <group>8</group>
+    <city>Северск</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Натан</firstName>
+    <lastName>Швардыгула</lastName>
+    <univercity>Moscow Institute of Economics, Management, and Law</univercity>
+    <faculty>Факультет космических исследований</faculty>
+    <profession>Э9 Экология и промышленная безопасность</profession>
+    <age>24</age>
+    <cource>1</cource>
+    <group>11</group>
+    <city>Элиста</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Аркадий</firstName>
+    <lastName>Шишков</lastName>
+    <univercity>Udmurt State University</univercity>
+    <faculty>Высшая школа современных социальных наук (факультет)</faculty>
+    <profession>Э8 Плазменные энергетические установки</profession>
+    <age>23</age>
+    <cource>6</cource>
+    <group>9</group>
+    <city>Солнечногорск-2</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Иосиф</firstName>
+    <lastName>Яикбаев</lastName>
+    <univercity>Petrozavodsk State University</univercity>
+    <faculty>Факультет биоинженерии и биоинформатики</faculty>
+    <profession>СГН4 Философия</profession>
+    <age>22</age>
+    <cource>4</cource>
+    <group>11</group>
+    <city>Руза</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Данил</firstName>
+    <lastName>Эмин</lastName>
+    <univercity>Plekhanov Russian University of Economics, previously known as Moscow Commercial Institute (found in 1907)</univercity>
+    <faculty>Социологический факультет</faculty>
+    <profession>Э3 Газотурбинные и нетрадиционные энергоустановки</profession>
+    <age>23</age>
+    <cource>1</cource>
+    <group>4</group>
+    <city>Осташков</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Борислав</firstName>
+    <lastName>Олейников</lastName>
+    <univercity>Nizhegorodsky State Pedagogical University</univercity>
+    <faculty>Факультет фундаментальной физико–химической инженерии</faculty>
+    <profession>РК5 Прикладная механика</profession>
+    <age>24</age>
+    <cource>5</cource>
+    <group>1</group>
+    <city>Зеленогорск</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Иларион</firstName>
+    <lastName>Брынских</lastName>
+    <univercity>International University in Moscow</univercity>
+    <faculty>Высшая школа управления и инноваций (факультет)</faculty>
+    <profession>МТ9 Промышленный дизайн</profession>
+    <age>22</age>
+    <cource>2</cource>
+    <group>10</group>
+    <city>Луга</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Родион</firstName>
+    <lastName>Васнев</lastName>
+    <univercity>Crimean Federal University</univercity>
+    <faculty>Факультет фундаментальной физико–химической инженерии</faculty>
+    <profession>ФH3 Теоретическая механика</profession>
+    <age>20</age>
+    <cource>2</cource>
+    <group>10</group>
+    <city>Чадан</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Мир</firstName>
+    <lastName>Панфёров</lastName>
+    <univercity>Moscow State Industrial University</univercity>
+    <faculty>Факультет глобальных процессов</faculty>
+    <profession>РЛ6 Технологии приборостроения</profession>
+    <age>24</age>
+    <cource>4</cource>
+    <group>13</group>
+    <city>Новочебоксарск</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Станислав</firstName>
+    <lastName>Горохов</lastName>
+    <univercity>Tomsk State University (1878)</univercity>
+    <faculty>Высшая школа государственного администрирования (факультет)</faculty>
+    <profession>CМ13 Ракетно-космические композиционные конструкции</profession>
+    <age>20</age>
+    <cource>2</cource>
+    <group>8</group>
+    <city>Харабали</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Федор</firstName>
+    <lastName>Оборин</lastName>
+    <univercity>Voronezh State Agricultural University</univercity>
+    <faculty>Социологический факультет</faculty>
+    <profession>Э7 Ядерные реакторы и установки</profession>
+    <age>24</age>
+    <cource>4</cource>
+    <group>4</group>
+    <city>Луза</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Агафон</firstName>
+    <lastName>Салтыков</lastName>
+    <univercity>Rostov State University (1915), successor to the Warsaw Russian University (founded 1869)</univercity>
+    <faculty>Биотехнологический факультет</faculty>
+    <profession>ФH4 Физика</profession>
+    <age>24</age>
+    <cource>4</cource>
+    <group>14</group>
+    <city>Новохоперск</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Эрнест</firstName>
+    <lastName>Сычёв</lastName>
+    <univercity>Omsk State Pedagogical University</univercity>
+    <faculty>Институт стран Азии и Африки</faculty>
+    <profession>СМ1 Космические аппараты и ракеты-носители</profession>
+    <age>19</age>
+    <cource>2</cource>
+    <group>14</group>
+    <city>Артем</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Мечислав</firstName>
+    <lastName>Паршин</lastName>
+    <univercity>Vologda State Technical University</univercity>
+    <faculty>Высшая школа телевидения (факультет)</faculty>
+    <profession>ИУ2 Приборы и системы ориентации, стабилизации и навигации</profession>
+    <age>18</age>
+    <cource>1</cource>
+    <group>2</group>
+    <city>Клинцы</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Ян</firstName>
+    <lastName>Юрнаев</lastName>
+    <univercity>Saint Petersburg State University of Economics (2012)</univercity>
+    <faculty>Геологический факультет</faculty>
+    <profession>CМ4 Высокоточные летательные аппараты</profession>
+    <age>21</age>
+    <cource>3</cource>
+    <group>7</group>
+    <city>Губаха</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Харитон</firstName>
+    <lastName>Нюхалов</lastName>
+    <univercity>Kuban State Technological University</univercity>
+    <faculty>Факультет биоинженерии и биоинформатики</faculty>
+    <profession>МТ5 Литейные технологии</profession>
+    <age>19</age>
+    <cource>2</cource>
+    <group>14</group>
+    <city>Хабаровск</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Лев</firstName>
+    <lastName>Райт</lastName>
+    <univercity>Kuzbass State Technical University</univercity>
+    <faculty>Механико–математический факультет </faculty>
+    <profession>ИБМ2 Экономика и организация производства</profession>
+    <age>20</age>
+    <cource>2</cource>
+    <group>5</group>
+    <city>Коммунар</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Евсей</firstName>
+    <lastName>Клинских</lastName>
+    <univercity>Perm State Agricultural Academy</univercity>
+    <faculty>Факультет почвоведения</faculty>
+    <profession>CМ3 Динамика и управление полетом ракет и космических аппаратов</profession>
+    <age>22</age>
+    <cource>6</cource>
+    <group>12</group>
+    <city>Новый Оскол</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Игнат</firstName>
+    <lastName>Абрамов</lastName>
+    <univercity>Smolensk Humanitarian University</univercity>
+    <faculty>Механико–математический факультет </faculty>
+    <profession>ФН7 Электротехника и промышленная электроника</profession>
+    <age>21</age>
+    <cource>5</cource>
+    <group>11</group>
+    <city>Сурск</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Владимир</firstName>
+    <lastName>Горяинов</lastName>
+    <univercity>Krasnoyarsk State University (Russian abbreviation is KGU) (1963) (started as a division of Novosibirsk State University, became a standalone university in 1969)</univercity>
+    <faculty>Факультет вычислительной математики и кибернетики</faculty>
+    <profession>ИУ7 Программное обеспечение ЭВМ и информационные технологии</profession>
+    <age>20</age>
+    <cource>2</cource>
+    <group>13</group>
+    <city>Духовщина</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Макар</firstName>
+    <lastName>Головкин</lastName>
+    <univercity>South Ural State University (1943)</univercity>
+    <faculty>Факультет мировой политики</faculty>
+    <profession>СГН2 Социология и культурология</profession>
+    <age>20</age>
+    <cource>1</cource>
+    <group>16</group>
+    <city>Ясный</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Мартын</firstName>
+    <lastName>Карнаухов</lastName>
+    <univercity>Irkutsk State Academy of Economics</univercity>
+    <faculty>Высшая школа современных социальных наук (факультет)</faculty>
+    <profession>Э4 Холодильная, криогенная техника системы кондиционирования и жизнеобеспечения</profession>
+    <age>18</age>
+    <cource>2</cource>
+    <group>9</group>
+    <city>Бузулук</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Евграф</firstName>
+    <lastName>Квасников</lastName>
+    <univercity>Tomsk Polytechnic University (1896)</univercity>
+    <faculty>Экономический факультет</faculty>
+    <profession>ИУ8 Информационная безопасность</profession>
+    <age>19</age>
+    <cource>3</cource>
+    <group>7</group>
+    <city>Севастополь</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Измаил</firstName>
+    <lastName>Сухих</lastName>
+    <univercity>Zabaykalsky State Pedagogical University</univercity>
+    <faculty>Высшая школа государственного администрирования (факультет)</faculty>
+    <profession>Э5 Вакуумная и компрессорная техника</profession>
+    <age>24</age>
+    <cource>1</cource>
+    <group>4</group>
+    <city>Барабинск</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Сидор</firstName>
+    <lastName>Шестаков</lastName>
+    <univercity>Moscow State Institute of Physics and Engineering (Technical University)</univercity>
+    <faculty>Высшая школа бизнеса (факультет)</faculty>
+    <profession>ИУ5 Системы обработки информации и управления</profession>
+    <age>18</age>
+    <cource>2</cource>
+    <group>13</group>
+    <city>Теберда</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Ефим</firstName>
+    <lastName>Рощин</lastName>
+    <univercity>Higher Chemical College of the Russian Academy of Sciences</univercity>
+    <faculty>Экономический факультет</faculty>
+    <profession>ИУ4 Конструирование и производство электронной аппаратуры</profession>
+    <age>24</age>
+    <cource>2</cource>
+    <group>7</group>
+    <city>Черемхово</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Фока</firstName>
+    <lastName>Убыш</lastName>
+    <univercity>Perm State Pharmaceutical Academy</univercity>
+    <faculty>Механико–математический факультет </faculty>
+    <profession>МТ5 Литейные технологии</profession>
+    <age>21</age>
+    <cource>4</cource>
+    <group>15</group>
+    <city>Пудож</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Юлиан</firstName>
+    <lastName>Емельянов</lastName>
+    <univercity>Academy of State Fire-Prevention Service of the MIA of Russia</univercity>
+    <faculty>Факультет вычислительной математики и кибернетики</faculty>
+    <profession>СГН3Информационная аналитика и политические технологии</profession>
+    <age>19</age>
+    <cource>3</cource>
+    <group>4</group>
+    <city>Питкяранта</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Соломон</firstName>
+    <lastName>Мусин</lastName>
+    <univercity>Ural State Academy of Mining and Geology</univercity>
+    <faculty>Географический факультет</faculty>
+    <profession>МТ10 Оборудование и технологии прокатки</profession>
+    <age>22</age>
+    <cource>4</cource>
+    <group>16</group>
+    <city>Старый Оскол</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Денис</firstName>
+    <lastName>Веселков</lastName>
+    <univercity>Mari State Technical University</univercity>
+    <faculty>Факультет космических исследований</faculty>
+    <profession>ФН2 Прикладная математика</profession>
+    <age>19</age>
+    <cource>6</cource>
+    <group>8</group>
+    <city>Вологда</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Изяслав</firstName>
+    <lastName>Былинкин</lastName>
+    <univercity>Omsk State Technical University (1942)</univercity>
+    <faculty>Факультет политологии</faculty>
+    <profession>РЛ1 Радиоэлектронные системы и устройства</profession>
+    <age>23</age>
+    <cource>1</cource>
+    <group>1</group>
+    <city>Видное</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Виталий</firstName>
+    <lastName>Ковшутин</lastName>
+    <univercity>Krasnoyarsk State University (Russian abbreviation is KGU) (1963) (started as a division of Novosibirsk State University, became a standalone university in 1969)</univercity>
+    <faculty>Филологический факультет</faculty>
+    <profession>БМТ1 Биомедицинские технические системы</profession>
+    <age>19</age>
+    <cource>4</cource>
+    <group>9</group>
+    <city>Котельниково</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Рубен</firstName>
+    <lastName>Сергеев</lastName>
+    <univercity>Petrozavodsk State University</univercity>
+    <faculty>Социологический факультет</faculty>
+    <profession>МТ5 Литейные технологии</profession>
+    <age>22</age>
+    <cource>5</cource>
+    <group>13</group>
+    <city>Хотьково</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Федот</firstName>
+    <lastName>Якубович</lastName>
+    <univercity>Omsk Road-Transport Academy</univercity>
+    <faculty>Высшая школа государственного аудита (факультет)</faculty>
+    <profession>Э1 Ракетные двигатели</profession>
+    <age>19</age>
+    <cource>4</cource>
+    <group>14</group>
+    <city>Зея</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Михаил</firstName>
+    <lastName>Яминский</lastName>
+    <univercity>Buryat State Agricultural Academy</univercity>
+    <faculty>Высшая школа управления и инноваций (факультет)</faculty>
+    <profession>Э8 Плазменные энергетические установки</profession>
+    <age>22</age>
+    <cource>4</cource>
+    <group>1</group>
+    <city>Верея</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Сократ</firstName>
+    <lastName>Цорн</lastName>
+    <univercity>Novgorod State University</univercity>
+    <faculty>Факультет военного обучения</faculty>
+    <profession>Л3 Английский язык для машиностроительных специальностей</profession>
+    <age>22</age>
+    <cource>1</cource>
+    <group>16</group>
+    <city>Тулун</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Прохор</firstName>
+    <lastName>Муравей</lastName>
+    <univercity>Kazan State University (1804)</univercity>
+    <faculty>Факультет искусств</faculty>
+    <profession>ФН2 Прикладная математика</profession>
+    <age>22</age>
+    <cource>1</cource>
+    <group>1</group>
+    <city>Соликамск</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Филипп</firstName>
+    <lastName>Случевский</lastName>
+    <univercity>Volgograd State Technical University</univercity>
+    <faculty>Факультет наук о материалах</faculty>
+    <profession>Л4 Романо-германские языки</profession>
+    <age>18</age>
+    <cource>6</cource>
+    <group>5</group>
+    <city>Каргат</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Владилен</firstName>
+    <lastName>Епанчин</lastName>
+    <univercity>Lesgaft National State University of Physical Education, Sport and Health</univercity>
+    <faculty>Экономический факультет</faculty>
+    <profession>Л3 Английский язык для машиностроительных специальностей</profession>
+    <age>24</age>
+    <cource>4</cource>
+    <group>17</group>
+    <city>Кинель</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Касьян</firstName>
+    <lastName>Буров</lastName>
+    <univercity>Voronezh State Academy of Forestry Engineering</univercity>
+    <faculty>Механико–математический факультет </faculty>
+    <profession>МТ11 Электронные технологии в машиностроении</profession>
+    <age>22</age>
+    <cource>3</cource>
+    <group>3</group>
+    <city>Плес</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Василий</firstName>
+    <lastName>Густокашин</lastName>
+    <univercity>Novosibirsk State Technical University (1950)</univercity>
+    <faculty>Химический факультет</faculty>
+    <profession>CМ5 Автономные информационные и управляющие системы</profession>
+    <age>24</age>
+    <cource>4</cource>
+    <group>11</group>
+    <city>Карабаш</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Глеб</firstName>
+    <lastName>Уттеркло</lastName>
+    <univercity>Kuban State Technological University</univercity>
+    <faculty>Высшая школа бизнеса (факультет)</faculty>
+    <profession>РК1 Инженерная графика</profession>
+    <age>18</age>
+    <cource>1</cource>
+    <group>10</group>
+    <city>Кирсанов</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Ярослав</firstName>
+    <lastName>Шушалев</lastName>
+    <univercity>Omsk Academy of Law</univercity>
+    <faculty>Высшая школа современных социальных наук (факультет)</faculty>
+    <profession>CМ6 Ракетные и импульсные системы</profession>
+    <age>20</age>
+    <cource>4</cource>
+    <group>16</group>
+    <city>Ефремов</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Терентий</firstName>
+    <lastName>Козырев</lastName>
+    <univercity>Saint Petersburg State University of Aerospace Instrumentation</univercity>
+    <faculty>Факультет педагогического образования</faculty>
+    <profession>ФH11 Вычислительная математика и математическая физика</profession>
+    <age>21</age>
+    <cource>1</cource>
+    <group>14</group>
+    <city>Кувшиново</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Вячеслав</firstName>
+    <lastName>Щепкин</lastName>
+    <univercity>Southern Federal University (1915)</univercity>
+    <faculty>Факультет почвоведения</faculty>
+    <profession>МТ10 Оборудование и технологии прокатки</profession>
+    <age>23</age>
+    <cource>1</cource>
+    <group>13</group>
+    <city>Вышний Волочек</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Адам</firstName>
+    <lastName>Куцак</lastName>
+    <univercity>Ryazan State Pedagogical University</univercity>
+    <faculty>Факультет искусств</faculty>
+    <profession>ИБМ2 Экономика и организация производства</profession>
+    <age>19</age>
+    <cource>2</cource>
+    <group>20</group>
+    <city>Дзержинск</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Юлий</firstName>
+    <lastName>Земцовский</lastName>
+    <univercity>Rostov State Academy of Architecture and Art</univercity>
+    <faculty>Биотехнологический факультет</faculty>
+    <profession>ИУ6 Компьютерные системы и сети</profession>
+    <age>18</age>
+    <cource>2</cource>
+    <group>8</group>
+    <city>Березники</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Нестор</firstName>
+    <lastName>Рыбьяков</lastName>
+    <univercity>Siberian University of Small Business</univercity>
+    <faculty>Философский факультет</faculty>
+    <profession>CМ6 Ракетные и импульсные системы</profession>
+    <age>18</age>
+    <cource>4</cource>
+    <group>5</group>
+    <city>Белоярский</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Тимофей</firstName>
+    <lastName>Мухин</lastName>
+    <univercity>Siberian State University of Telecommunication and Information Sciences</univercity>
+    <faculty>Юридический факультет</faculty>
+    <profession>МТ12 Лазерные технологии в машиностроении</profession>
+    <age>20</age>
+    <cource>1</cource>
+    <group>15</group>
+    <city>Кирсанов</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Матвей</firstName>
+    <lastName>Серпионов</lastName>
+    <univercity>Sechenov Moscow Medical Academy</univercity>
+    <faculty>Физический факультет</faculty>
+    <profession>МТ5 Литейные технологии</profession>
+    <age>22</age>
+    <cource>2</cource>
+    <group>15</group>
+    <city>Белоярский</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Елисей</firstName>
+    <lastName>Утёсов</lastName>
+    <univercity>Voronezh Economics and Law Institute</univercity>
+    <faculty>Факультет журналистики</faculty>
+    <profession>МТ13 Технологии обработки материалов</profession>
+    <age>23</age>
+    <cource>4</cource>
+    <group>4</group>
+    <city>Рассказово</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Никита</firstName>
+    <lastName>Подшивалов</lastName>
+    <univercity>Korolev Samara State Aerospace University</univercity>
+    <faculty>Факультет глобальных процессов</faculty>
+    <profession>Э3 Газотурбинные и нетрадиционные энергоустановки</profession>
+    <age>22</age>
+    <cource>3</cource>
+    <group>8</group>
+    <city>Кушва</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Самсон</firstName>
+    <lastName>Кривчиков</lastName>
+    <univercity>Surikov Moscow State Academic Art Institute</univercity>
+    <faculty>Институт стран Азии и Африки</faculty>
+    <profession>Э3 Газотурбинные и нетрадиционные энергоустановки</profession>
+    <age>21</age>
+    <cource>3</cource>
+    <group>18</group>
+    <city>Белинский</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Никифор</firstName>
+    <lastName>Гребнев</lastName>
+    <univercity>Yakutsk State University (1956)</univercity>
+    <faculty>Высшая школа телевидения (факультет)</faculty>
+    <profession>ИБМ5 Финансы</profession>
+    <age>18</age>
+    <cource>4</cource>
+    <group>13</group>
+    <city>Учалы</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Артем</firstName>
+    <lastName>Ожегов</lastName>
+    <univercity>Saint-Petersburg State University of Culture and Arts</univercity>
+    <faculty>Специализированный учебно–научный центр (факультет) — школа–интернат имени А.Н. Колмогорова</faculty>
+    <profession>Л1 Русский язык</profession>
+    <age>20</age>
+    <cource>4</cource>
+    <group>7</group>
+    <city>Талица</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Ипатий</firstName>
+    <lastName>Колбенев</lastName>
+    <univercity>Maimonid State Classical Academy</univercity>
+    <faculty>Факультет наук о материалах</faculty>
+    <profession>ФН2 Прикладная математика</profession>
+    <age>18</age>
+    <cource>2</cource>
+    <group>3</group>
+    <city>Королев</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Мефодий</firstName>
+    <lastName>Сиянин</lastName>
+    <univercity>Altai State Technical University</univercity>
+    <faculty>Факультет фундаментальной физико–химической инженерии</faculty>
+    <profession>РК6 Системы автоматизированного проектирования</profession>
+    <age>22</age>
+    <cource>2</cource>
+    <group>11</group>
+    <city>Кемерово</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Порфирий</firstName>
+    <lastName>Разудалов</lastName>
+    <univercity>Voronezh State Technical University</univercity>
+    <faculty>Высшая школа культурной политики и управления в гуманитарной сфере (факультет)</faculty>
+    <profession>ФH4 Физика</profession>
+    <age>22</age>
+    <cource>4</cource>
+    <group>10</group>
+    <city>Сестрорецк</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Вадим</firstName>
+    <lastName>Ядыкин</lastName>
+    <univercity>European University at St Petersburg (ЕУСПб, 1994)</univercity>
+    <faculty>Факультет военного обучения</faculty>
+    <profession>Э3 Газотурбинные и нетрадиционные энергоустановки</profession>
+    <age>20</age>
+    <cource>5</cource>
+    <group>9</group>
+    <city>Заинск</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Никон</firstName>
+    <lastName>Гогин</lastName>
+    <univercity>Tambov State Technical University</univercity>
+    <faculty>Факультет иностранных языков и регионоведения</faculty>
+    <profession>БМТ2 Медико-технические информационные технологии</profession>
+    <age>22</age>
+    <cource>5</cource>
+    <group>1</group>
+    <city>Воткинск</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Чеслав</firstName>
+    <lastName>Зёмин</lastName>
+    <univercity>Eastern Siberian State Technological University</univercity>
+    <faculty>Университетская гимназия (школа-интернат)</faculty>
+    <profession>СГН2 Социология и культурология</profession>
+    <age>20</age>
+    <cource>4</cource>
+    <group>6</group>
+    <city>Вольск-18</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Савелий</firstName>
+    <lastName>Ерзов</lastName>
+    <univercity>Kuban State Technological University</univercity>
+    <faculty>Факультет космических исследований</faculty>
+    <profession>CМ5 Автономные информационные и управляющие системы</profession>
+    <age>21</age>
+    <cource>6</cource>
+    <group>7</group>
+    <city>Инсар</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Радион</firstName>
+    <lastName>Яшвили</lastName>
+    <univercity>Moscow State Technological University (a.k.a. STANKIN) (1930)</univercity>
+    <faculty>Факультет иностранных языков и регионоведения</faculty>
+    <profession>ИУ9 Теоретическая информатика и компьютерные технологии</profession>
+    <age>20</age>
+    <cource>3</cource>
+    <group>10</group>
+    <city>Туапсе</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Семён</firstName>
+    <lastName>Званцев</lastName>
+    <univercity>Omsk State Transport University (1961)</univercity>
+    <faculty>Факультет журналистики</faculty>
+    <profession>ИБМ6 Предпринимательство и внешнеэкономическая деятельность</profession>
+    <age>24</age>
+    <cource>3</cource>
+    <group>16</group>
+    <city>Урай</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Севастьян</firstName>
+    <lastName>Бухало</lastName>
+    <univercity>Moscow State Law University (Kutafin University)</univercity>
+    <faculty>Философский факультет</faculty>
+    <profession>ИУ7 Программное обеспечение ЭВМ и информационные технологии</profession>
+    <age>20</age>
+    <cource>4</cource>
+    <group>8</group>
+    <city>Мариинский Посад</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Карп</firstName>
+    <lastName>Авдиенко</lastName>
+    <univercity>Siberian Transport University (1932)</univercity>
+    <faculty>Факультет наук о материалах</faculty>
+    <profession>CМ2 Аэрокосмические системы</profession>
+    <age>18</age>
+    <cource>6</cource>
+    <group>11</group>
+    <city>Нестеров</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Артём</firstName>
+    <lastName>Терентьев</lastName>
+    <univercity>Moscow Aviation Institute (State Technical University)</univercity>
+    <faculty>Факультет фундаментальной физико–химической инженерии</faculty>
+    <profession>Э2 Поршневые двигатели</profession>
+    <age>20</age>
+    <cource>3</cource>
+    <group>7</group>
+    <city>Балтийск</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Петр</firstName>
+    <lastName>Мамонтов</lastName>
+    <univercity>Novosibirsk State Technical University (1950)</univercity>
+    <faculty>Высшая школа современных социальных наук (факультет)</faculty>
+    <profession>CМ7 Специальная робототехника и мехатроника</profession>
+    <age>21</age>
+    <cource>6</cource>
+    <group>17</group>
+    <city>Сусуман</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Федосий</firstName>
+    <lastName>Квартин</lastName>
+    <univercity>Kemerovo State University (1973)</univercity>
+    <faculty>Университетская гимназия (школа-интернат)</faculty>
+    <profession>ИБМ5 Финансы</profession>
+    <age>22</age>
+    <cource>3</cource>
+    <group>13</group>
+    <city>Каменногорск</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Авдей</firstName>
+    <lastName>Курбанов</lastName>
+    <univercity>Kemerovo State Institute of Culture (1969)</univercity>
+    <faculty>Специализированный учебно–научный центр (факультет) — школа–интернат имени А.Н. Колмогорова</faculty>
+    <profession>CМ10 Колесные машины</profession>
+    <age>21</age>
+    <cource>4</cource>
+    <group>5</group>
+    <city>Новодвинск</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Остап</firstName>
+    <lastName>Кунаковский</lastName>
+    <univercity>Eastern Institute of Economics, Humanitarian Sciences, Management, and Law</univercity>
+    <faculty>Институт стран Азии и Африки</faculty>
+    <profession>БМТ1 Биомедицинские технические системы</profession>
+    <age>22</age>
+    <cource>5</cource>
+    <group>19</group>
+    <city>Кяхта</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Яков</firstName>
+    <lastName>Сотников</lastName>
+    <univercity>Russian State Medical University</univercity>
+    <faculty>Социологический факультет</faculty>
+    <profession>ИУ8 Информационная безопасность</profession>
+    <age>24</age>
+    <cource>3</cource>
+    <group>17</group>
+    <city>Братск</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Александр</firstName>
+    <lastName>Веселовский</lastName>
+    <univercity>Russian State Social University</univercity>
+    <faculty>Институт стран Азии и Африки</faculty>
+    <profession>МТ2 Инструментальная техника и технологии</profession>
+    <age>22</age>
+    <cource>4</cource>
+    <group>7</group>
+    <city>Димитровград</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Всеслав</firstName>
+    <lastName>Чистяков</lastName>
+    <univercity>Belgorod Shukhov state technological university</univercity>
+    <faculty>Факультет искусств</faculty>
+    <profession>ИУ3 Информационные системы и телекоммуникации</profession>
+    <age>24</age>
+    <cource>2</cource>
+    <group>5</group>
+    <city>Макушино</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Кондрат</firstName>
+    <lastName>Краснов</lastName>
+    <univercity>Moscow State Academic School of 1905 Year Memory</univercity>
+    <faculty>Социологический факультет</faculty>
+    <profession>ФH5 Химия</profession>
+    <age>21</age>
+    <cource>6</cource>
+    <group>19</group>
+    <city>Новохоперск</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Игнатий</firstName>
+    <lastName>Аптекарь</lastName>
+    <univercity>Ulyanovsk State Technical University</univercity>
+    <faculty>Биотехнологический факультет</faculty>
+    <profession>ИБМ3 Промышленная логистика</profession>
+    <age>22</age>
+    <cource>1</cource>
+    <group>4</group>
+    <city>Кинель</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Пахом</firstName>
+    <lastName>Скворцов</lastName>
+    <univercity>Moscow Agricultural Academy</univercity>
+    <faculty>Социологический факультет</faculty>
+    <profession>РК2 Теория механизмов и машин</profession>
+    <age>24</age>
+    <cource>3</cource>
+    <group>13</group>
+    <city>Юрьевец</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Елизар</firstName>
+    <lastName>Мелехов</lastName>
+    <univercity>Krasnoyarsk State Technical University (Russian abbreviation is KGTU) (1956)</univercity>
+    <faculty>Высшая школа культурной политики и управления в гуманитарной сфере (факультет)</faculty>
+    <profession>МТ2 Инструментальная техника и технологии</profession>
+    <age>23</age>
+    <cource>2</cource>
+    <group>20</group>
+    <city>Кузнецк</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Марк</firstName>
+    <lastName>Гуковский</lastName>
+    <univercity>Russian State University for the Humanities (РГГУ), Moscow (1991)</univercity>
+    <faculty>Физический факультет</faculty>
+    <profession>Э10 Гидромеханика, гидромашины и гидропневмоавтоматика</profession>
+    <age>19</age>
+    <cource>6</cource>
+    <group>14</group>
+    <city>Чехов-2</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Антон</firstName>
+    <lastName>Швецов</lastName>
+    <univercity>Omsk State Pedagogical University</univercity>
+    <faculty>Факультет государственного управления</faculty>
+    <profession>Э8 Плазменные энергетические установки</profession>
+    <age>21</age>
+    <cource>4</cource>
+    <group>20</group>
+    <city>Сысерть</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Арсений</firstName>
+    <lastName>Балакин</lastName>
+    <univercity>International Institute of Economics and Law</univercity>
+    <faculty>Московская школа экономики (факультет)</faculty>
+    <profession>СГН2 Социология и культурология</profession>
+    <age>20</age>
+    <cource>1</cource>
+    <group>17</group>
+    <city>Фокино</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Еремей</firstName>
+    <lastName>Завражин</lastName>
+    <univercity>Novosibirsk State Technical University (1950)</univercity>
+    <faculty>Институт стран Азии и Африки</faculty>
+    <profession>ИБМ4 Менеджмент</profession>
+    <age>22</age>
+    <cource>5</cource>
+    <group>10</group>
+    <city>Обнинск</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Рюрик</firstName>
+    <lastName>Вергунов</lastName>
+    <univercity>Tambov State University</univercity>
+    <faculty>Юридический факультет</faculty>
+    <profession>Э1 Ракетные двигатели</profession>
+    <age>20</age>
+    <cource>6</cource>
+    <group>18</group>
+    <city>Горно-Алтайск</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Семен</firstName>
+    <lastName>Калягин</lastName>
+    <univercity>South Ural State University (1943)</univercity>
+    <faculty>Факультет фундаментальной медицины</faculty>
+    <profession>МТ4 Метрология и взаимозаменяемость</profession>
+    <age>21</age>
+    <cource>5</cource>
+    <group>18</group>
+    <city>Крымск</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Богдан</firstName>
+    <lastName>Щитт</lastName>
+    <univercity>Ulyanovsk State Agricultural Academy</univercity>
+    <faculty>Химический факультет</faculty>
+    <profession>CМ12 Технологии ракетно-космического машиностроения</profession>
+    <age>18</age>
+    <cource>2</cource>
+    <group>6</group>
+    <city>Костомукша</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Максимильян</firstName>
+    <lastName>Дураничев</lastName>
+    <univercity>Krasnoyarsk State Institute of Trade and Economics</univercity>
+    <faculty>Факультет фундаментальной медицины</faculty>
+    <profession>МТ13 Технологии обработки материалов</profession>
+    <age>23</age>
+    <cource>2</cource>
+    <group>4</group>
+    <city>Чапаевск</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Владислав</firstName>
+    <lastName>Куделькин</lastName>
+    <univercity>Yaroslavl Demidov State University (1918), successor to the Demidov Lyceum (founded 1803)</univercity>
+    <faculty>Факультет искусств</faculty>
+    <profession>СМ1 Космические аппараты и ракеты-носители</profession>
+    <age>18</age>
+    <cource>1</cource>
+    <group>12</group>
+    <city>Морозовск</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Роман</firstName>
+    <lastName>Пономарев</lastName>
+    <univercity>Kaliningrad State Technical University</univercity>
+    <faculty>Специализированный учебно–научный центр (факультет) — школа–интернат имени А.Н. Колмогорова</faculty>
+    <profession>СГН1 История</profession>
+    <age>18</age>
+    <cource>4</cource>
+    <group>15</group>
+    <city>Бокситогорск</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Феоктист</firstName>
+    <lastName>Кардапольцев</lastName>
+    <univercity>Kazan State Conservatory</univercity>
+    <faculty>Биологический факультет</faculty>
+    <profession>РЛ2 Лазерные и оптико-электронные системы</profession>
+    <age>20</age>
+    <cource>2</cource>
+    <group>5</group>
+    <city>Осинники</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Радислав</firstName>
+    <lastName>Луньков</lastName>
+    <univercity>Ulyanovsk State Agricultural Academy</univercity>
+    <faculty>Факультет глобальных процессов</faculty>
+    <profession>РЛ5 Элементы приборных устройств</profession>
+    <age>18</age>
+    <cource>6</cource>
+    <group>16</group>
+    <city>Белинский</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Антип</firstName>
+    <lastName>Янаев</lastName>
+    <univercity>Pomor State University</univercity>
+    <faculty>Физический факультет</faculty>
+    <profession>МТ7 Технологии сварки и диагностики</profession>
+    <age>22</age>
+    <cource>2</cource>
+    <group>12</group>
+    <city>Керчь</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Агап</firstName>
+    <lastName>Гайдук</lastName>
+    <univercity>Far Eastern State Academy of Economics and Management</univercity>
+    <faculty>Юридический факультет</faculty>
+    <profession>МТ6 Технологии обработки давлением</profession>
+    <age>18</age>
+    <cource>4</cource>
+    <group>6</group>
+    <city>Борисоглебск</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Аристарх</firstName>
+    <lastName>Яцковский</lastName>
+    <univercity>International Institute of Economics and Law</univercity>
+    <faculty>Факультет искусств</faculty>
+    <profession>МТ12 Лазерные технологии в машиностроении</profession>
+    <age>19</age>
+    <cource>4</cource>
+    <group>11</group>
+    <city>Кировск</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Артемий</firstName>
+    <lastName>Красильников</lastName>
+    <univercity>Kostroma State Technological University</univercity>
+    <faculty>Экономический факультет</faculty>
+    <profession>CМ13 Ракетно-космические композиционные конструкции</profession>
+    <age>18</age>
+    <cource>3</cource>
+    <group>6</group>
+    <city>Красавино</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Ростислав</firstName>
+    <lastName>Татаров</lastName>
+    <univercity>Perm branch of Higher School of Economics</univercity>
+    <faculty>Исторический факультет</faculty>
+    <profession>CМ11 Подводные роботы и аппараты</profession>
+    <age>21</age>
+    <cource>2</cource>
+    <group>4</group>
+    <city>Можайск</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Саввелий</firstName>
+    <lastName>Потрепалов</lastName>
+    <univercity>Southern Federal University (1915)</univercity>
+    <faculty>Философский факультет</faculty>
+    <profession>РЛ6 Технологии приборостроения</profession>
+    <age>18</age>
+    <cource>1</cource>
+    <group>11</group>
+    <city>Карачаевск</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Афанасий</firstName>
+    <lastName>Ясевич</lastName>
+    <univercity>Siberian State Aerospace University (Russian abbreviation is SibGAU) (1960)</univercity>
+    <faculty>Факультет мировой политики</faculty>
+    <profession>МТ4 Метрология и взаимозаменяемость</profession>
+    <age>23</age>
+    <cource>3</cource>
+    <group>8</group>
+    <city>Губаха</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Трофим</firstName>
+    <lastName>Марченко</lastName>
+    <univercity>Omsk State University (1974)</univercity>
+    <faculty>Механико–математический факультет </faculty>
+    <profession>СМ1 Космические аппараты и ракеты-носители</profession>
+    <age>24</age>
+    <cource>2</cource>
+    <group>19</group>
+    <city>Пошехонье</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Таисия</firstName>
+    <lastName>Новикова</lastName>
+    <univercity>Omsk State Agrarian University (1918) (connected with Omsk State Veterinary Institute and Institute of Agribusiness and Continuing Education)</univercity>
+    <faculty>Факультет политологии</faculty>
+    <profession>РЛ1 Радиоэлектронные системы и устройства</profession>
+    <age>24</age>
+    <cource>6</cource>
+    <group>7</group>
+    <city>Прохладный</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Ярослава</firstName>
+    <lastName>Будникова</lastName>
+    <univercity>Sechenov Moscow Medical Academy</univercity>
+    <faculty>Высшая школа бизнеса (факультет)</faculty>
+    <profession>РЛ1 Радиоэлектронные системы и устройства</profession>
+    <age>19</age>
+    <cource>6</cource>
+    <group>2</group>
+    <city>Снежинск</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Ульяна</firstName>
+    <lastName>Яценко</lastName>
+    <univercity>Moscow State Aviation Technological University (MATI)</univercity>
+    <faculty>Факультет психологии</faculty>
+    <profession>МТ3 Технологии машиностроения</profession>
+    <age>18</age>
+    <cource>2</cource>
+    <group>14</group>
+    <city>Алупка</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Яна</firstName>
+    <lastName>Шестакова</lastName>
+    <univercity>Altai State Medical University</univercity>
+    <faculty>Факультет вычислительной математики и кибернетики</faculty>
+    <profession>Э8 Плазменные энергетические установки</profession>
+    <age>21</age>
+    <cource>2</cource>
+    <group>13</group>
+    <city>Черноголовка</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Лидия</firstName>
+    <lastName>Болдаева</lastName>
+    <univercity>Khakass Technical Institute</univercity>
+    <faculty>Химический факультет</faculty>
+    <profession>МТ13 Технологии обработки материалов</profession>
+    <age>18</age>
+    <cource>1</cource>
+    <group>3</group>
+    <city>Лахденпохья</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Злата</firstName>
+    <lastName>Багрова</lastName>
+    <univercity>Essentuky Institute of Management, Business, and Law</univercity>
+    <faculty>Высшая школа государственного аудита (факультет)</faculty>
+    <profession>ИБМ4 Менеджмент</profession>
+    <age>18</age>
+    <cource>4</cource>
+    <group>13</group>
+    <city>Барыш</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Владислава</firstName>
+    <lastName>Ожгибесова</lastName>
+    <univercity>Abakan State Institute of Education</univercity>
+    <faculty>Факультет журналистики</faculty>
+    <profession>МТ5 Литейные технологии</profession>
+    <age>22</age>
+    <cource>5</cource>
+    <group>8</group>
+    <city>Славгород</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Вероника</firstName>
+    <lastName>Гордеева</lastName>
+    <univercity>Kemerovo Medical Academy</univercity>
+    <faculty>Высшая школа управления и инноваций (факультет)</faculty>
+    <profession>РК2 Теория механизмов и машин</profession>
+    <age>22</age>
+    <cource>1</cource>
+    <group>18</group>
+    <city>Истра</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Марианна</firstName>
+    <lastName>Шульгина</lastName>
+    <univercity>Kemerovo Agricultural Institute</univercity>
+    <faculty>Университетская гимназия (школа-интернат)</faculty>
+    <profession>ФН1 Высшая математика</profession>
+    <age>22</age>
+    <cource>4</cource>
+    <group>15</group>
+    <city>Орёл</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Римма</firstName>
+    <lastName>Аптекарь</lastName>
+    <univercity>Moscow State University of Forestry</univercity>
+    <faculty>Философский факультет</faculty>
+    <profession>ФH5 Химия</profession>
+    <age>20</age>
+    <cource>4</cource>
+    <group>2</group>
+    <city>Ростов-на-Дону</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Тамара</firstName>
+    <lastName>Ягфарова</lastName>
+    <univercity>Perm branch of Higher School of Economics</univercity>
+    <faculty>Исторический факультет</faculty>
+    <profession>ИУ2 Приборы и системы ориентации, стабилизации и навигации</profession>
+    <age>21</age>
+    <cource>6</cource>
+    <group>1</group>
+    <city>Кировск</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Ефросинья</firstName>
+    <lastName>Ануфриева</lastName>
+    <univercity>Smolensk Humanitarian University</univercity>
+    <faculty>Факультет военного обучения</faculty>
+    <profession>ИБМ3 Промышленная логистика</profession>
+    <age>22</age>
+    <cource>1</cource>
+    <group>5</group>
+    <city>Кунгур</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Эмма</firstName>
+    <lastName>Проскуркина</lastName>
+    <univercity>Tver State University</univercity>
+    <faculty>Биологический факультет</faculty>
+    <profession>Л1 Русский язык</profession>
+    <age>23</age>
+    <cource>4</cource>
+    <group>9</group>
+    <city>Сосногорск</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Людмила</firstName>
+    <lastName>Кошляк</lastName>
+    <univercity>Omsk State Transport University (1961)</univercity>
+    <faculty>Факультет почвоведения</faculty>
+    <profession>МТ13 Технологии обработки материалов</profession>
+    <age>18</age>
+    <cource>3</cource>
+    <group>1</group>
+    <city>Бор</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Милена</firstName>
+    <lastName>Богатырёва</lastName>
+    <univercity>Krasnoyarsk State Medical Academy (Russian abbreviation is KrasGMA) (1942)</univercity>
+    <faculty>Социологический факультет</faculty>
+    <profession>Л2 Английский язык для приборостроительных специальностей</profession>
+    <age>20</age>
+    <cource>3</cource>
+    <group>15</group>
+    <city>Жердевка</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Дарья</firstName>
+    <lastName>Жириновская</lastName>
+    <univercity>Abakan State Institute of Education</univercity>
+    <faculty>Факультет государственного управления</faculty>
+    <profession>ФН1 Высшая математика</profession>
+    <age>23</age>
+    <cource>5</cource>
+    <group>2</group>
+    <city>Кинель</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Арина</firstName>
+    <lastName>Шкловская</lastName>
+    <univercity>Glazov State Pedagogical Institute (1939)</univercity>
+    <faculty>Экономический факультет</faculty>
+    <profession>ИБМ7 Инновационное предпринимательство</profession>
+    <age>20</age>
+    <cource>1</cource>
+    <group>5</group>
+    <city>Каменск-Уральский</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Ксения</firstName>
+    <lastName>Шапкина</lastName>
+    <univercity>Saint Petersburg State University of Economics (2012)</univercity>
+    <faculty>Механико–математический факультет </faculty>
+    <profession>Э1 Ракетные двигатели</profession>
+    <age>23</age>
+    <cource>6</cource>
+    <group>12</group>
+    <city>Вытегра</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Лариса</firstName>
+    <lastName>Калмыкова</lastName>
+    <univercity>Belgorod State Technological Academy of Construction Materials</univercity>
+    <faculty>Социологический факультет</faculty>
+    <profession>СГН1 История</profession>
+    <age>20</age>
+    <cource>3</cource>
+    <group>17</group>
+    <city>Гаджиево</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Анисья</firstName>
+    <lastName>Шумилова</lastName>
+    <univercity>Altai State University</univercity>
+    <faculty>Факультет фундаментальной физико–химической инженерии</faculty>
+    <profession>ФН2 Прикладная математика</profession>
+    <age>18</age>
+    <cource>4</cource>
+    <group>15</group>
+    <city>Дегтярск</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Анфиса</firstName>
+    <lastName>Рясная</lastName>
+    <univercity>Far Eastern State Technical Fishing University</univercity>
+    <faculty>Университетская гимназия (школа-интернат)</faculty>
+    <profession>ИБМ6 Предпринимательство и внешнеэкономическая деятельность</profession>
+    <age>22</age>
+    <cource>1</cource>
+    <group>13</group>
+    <city>Ковылкино</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Жанна</firstName>
+    <lastName>Чеботова</lastName>
+    <univercity>Vladimir State Humanitarian University</univercity>
+    <faculty>Факультет психологии</faculty>
+    <profession>ИУ3 Информационные системы и телекоммуникации</profession>
+    <age>22</age>
+    <cource>3</cource>
+    <group>11</group>
+    <city>Кудымкар</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Фаина</firstName>
+    <lastName>Дейнекина</lastName>
+    <univercity>Krasnoyarsk State Pedagogical University (Russian abbreviation is KGPU) (1932)</univercity>
+    <faculty>Факультет педагогического образования</faculty>
+    <profession>CМ2 Аэрокосмические системы</profession>
+    <age>24</age>
+    <cource>5</cource>
+    <group>14</group>
+    <city>Искитим</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Диана</firstName>
+    <lastName>Уварова</lastName>
+    <univercity>Tula State University</univercity>
+    <faculty>Факультет государственного управления</faculty>
+    <profession>Л3 Английский язык для машиностроительных специальностей</profession>
+    <age>24</age>
+    <cource>5</cource>
+    <group>20</group>
+    <city>Покров</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Инесса</firstName>
+    <lastName>Кабинова</lastName>
+    <univercity>Omsk State Transport University (1961)</univercity>
+    <faculty>Факультет космических исследований</faculty>
+    <profession>ФH5 Химия</profession>
+    <age>19</age>
+    <cource>6</cource>
+    <group>12</group>
+    <city>Таштагол</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Мария</firstName>
+    <lastName>Умаметева</lastName>
+    <univercity>Ivanovo State Power University</univercity>
+    <faculty>Факультет космических исследований</faculty>
+    <profession>Э7 Ядерные реакторы и установки</profession>
+    <age>23</age>
+    <cource>3</cource>
+    <group>13</group>
+    <city>Мценск</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Евдокия</firstName>
+    <lastName>Лагутова</lastName>
+    <univercity>Higher Chemical College of the Russian Academy of Sciences</univercity>
+    <faculty>Факультет политологии</faculty>
+    <profession>ФН7 Электротехника и промышленная электроника</profession>
+    <age>23</age>
+    <cource>2</cource>
+    <group>12</group>
+    <city>Ишимбай</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Евгения</firstName>
+    <lastName>Рафикова</lastName>
+    <univercity>Voenmeh Baltic State Technical University</univercity>
+    <faculty>Философский факультет</faculty>
+    <profession>МТ11 Электронные технологии в машиностроении</profession>
+    <age>18</age>
+    <cource>5</cource>
+    <group>7</group>
+    <city>Краснослободск</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Рада</firstName>
+    <lastName>Ткач</lastName>
+    <univercity>Pyatigorsk State Linguistic University</univercity>
+    <faculty>Факультет искусств</faculty>
+    <profession>МТ8 Материаловедение</profession>
+    <age>24</age>
+    <cource>1</cource>
+    <group>19</group>
+    <city>Елизово</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Зинаида</firstName>
+    <lastName>Зверева</lastName>
+    <univercity>Irkutsk State University (1918)</univercity>
+    <faculty>Высшая школа культурной политики и управления в гуманитарной сфере (факультет)</faculty>
+    <profession>CМ13 Ракетно-космические композиционные конструкции</profession>
+    <age>24</age>
+    <cource>5</cource>
+    <group>5</group>
+    <city>Юхнов</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Анна</firstName>
+    <lastName>Каретникова</lastName>
+    <univercity>Yaroslavl Demidov State University (1918), successor to the Demidov Lyceum (founded 1803)</univercity>
+    <faculty>Факультет фундаментальной медицины</faculty>
+    <profession>Э6 Теплофизика</profession>
+    <age>18</age>
+    <cource>2</cource>
+    <group>9</group>
+    <city>Абакан</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Эльвира</firstName>
+    <lastName>Шулепина</lastName>
+    <univercity>Udmurdsky State University</univercity>
+    <faculty>Факультет почвоведения</faculty>
+    <profession>ИБМ6 Предпринимательство и внешнеэкономическая деятельность</profession>
+    <age>19</age>
+    <cource>5</cource>
+    <group>10</group>
+    <city>Геленджик</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Любава</firstName>
+    <lastName>Гарина</lastName>
+    <univercity>Rostov State Economics University</univercity>
+    <faculty>Факультет наук о материалах</faculty>
+    <profession>РК5 Прикладная механика</profession>
+    <age>22</age>
+    <cource>1</cource>
+    <group>10</group>
+    <city>Сланцы</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Христина</firstName>
+    <lastName>Гаврюшина</lastName>
+    <univercity>Irkutsk State University (1918)</univercity>
+    <faculty>Филологический факультет</faculty>
+    <profession>РК3 Основы конструирования машин</profession>
+    <age>19</age>
+    <cource>6</cource>
+    <group>17</group>
+    <city>Катав-Ивановск</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Антонина</firstName>
+    <lastName>Уржумцева</lastName>
+    <univercity>Saint Petersburg State University of Economics (2012)</univercity>
+    <faculty>Экономический факультет</faculty>
+    <profession>БМТ4 Медико-технический менеджмент</profession>
+    <age>21</age>
+    <cource>3</cource>
+    <group>1</group>
+    <city>Балаково</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Кристина</firstName>
+    <lastName>Январева</lastName>
+    <univercity>Moscow State Industrial University</univercity>
+    <faculty>Экономический факультет</faculty>
+    <profession>РК2 Теория механизмов и машин</profession>
+    <age>20</age>
+    <cource>3</cource>
+    <group>14</group>
+    <city>Болохово</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Ефросиния</firstName>
+    <lastName>Лаптева</lastName>
+    <univercity>Tver State University</univercity>
+    <faculty>Геологический факультет</faculty>
+    <profession>CМ12 Технологии ракетно-космического машиностроения</profession>
+    <age>18</age>
+    <cource>3</cource>
+    <group>3</group>
+    <city>Мирный</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Бронислава</firstName>
+    <lastName>Купцова</lastName>
+    <univercity>Northern International University</univercity>
+    <faculty>Факультет иностранных языков и регионоведения</faculty>
+    <profession>CМ2 Аэрокосмические системы</profession>
+    <age>22</age>
+    <cource>5</cource>
+    <group>13</group>
+    <city>Озерск</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Екатерина</firstName>
+    <lastName>Шандарова</lastName>
+    <univercity>Krasnoyarsk State University (Russian abbreviation is KGU) (1963) (started as a division of Novosibirsk State University, became a standalone university in 1969)</univercity>
+    <faculty>Философский факультет</faculty>
+    <profession>ИБМ5 Финансы</profession>
+    <age>23</age>
+    <cource>1</cource>
+    <group>6</group>
+    <city>Лахденпохья</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Надежда</firstName>
+    <lastName>Уксюзова</lastName>
+    <univercity>Tsarskoye Selo Lyceum (1811)</univercity>
+    <faculty>Факультет почвоведения</faculty>
+    <profession>МТ4 Метрология и взаимозаменяемость</profession>
+    <age>19</age>
+    <cource>3</cource>
+    <group>8</group>
+    <city>Ладушкин</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Берта</firstName>
+    <lastName>Яшунина</lastName>
+    <univercity>Moscow State University of Food Productions</univercity>
+    <faculty>Филологический факультет</faculty>
+    <profession>МТ9 Промышленный дизайн</profession>
+    <age>21</age>
+    <cource>4</cource>
+    <group>6</group>
+    <city>Набережные Челны</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Доминика</firstName>
+    <lastName>Зарубина</lastName>
+    <univercity>Omsk Academy of Law</univercity>
+    <faculty>Факультет искусств</faculty>
+    <profession>CМ13 Ракетно-космические композиционные конструкции</profession>
+    <age>22</age>
+    <cource>2</cource>
+    <group>5</group>
+    <city>Перевоз</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Ираида</firstName>
+    <lastName>Борисюк</lastName>
+    <univercity>Vladimir State Humanitarian University</univercity>
+    <faculty>Факультет почвоведения</faculty>
+    <profession>CМ9 Многоцелевые гусеничные машины и мобильные роботы</profession>
+    <age>23</age>
+    <cource>4</cource>
+    <group>13</group>
+    <city>Чебоксары</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Любовь</firstName>
+    <lastName>Кузиева</lastName>
+    <univercity>Perm State Medical Academy</univercity>
+    <faculty>Факультет политологии</faculty>
+    <profession>СМ1 Космические аппараты и ракеты-носители</profession>
+    <age>18</age>
+    <cource>6</cource>
+    <group>7</group>
+    <city>Бугульма</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Виктория</firstName>
+    <lastName>Рытова</lastName>
+    <univercity>Kaluga State University (1948)</univercity>
+    <faculty>Факультет фундаментальной медицины</faculty>
+    <profession>МТ3 Технологии машиностроения</profession>
+    <age>21</age>
+    <cource>1</cource>
+    <group>11</group>
+    <city>Усть-Джегута</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Кира</firstName>
+    <lastName>Оскорбина</lastName>
+    <univercity>Moscow State Pedagogical University</univercity>
+    <faculty>Факультет искусств</faculty>
+    <profession>Э5 Вакуумная и компрессорная техника</profession>
+    <age>23</age>
+    <cource>3</cource>
+    <group>15</group>
+    <city>Шлиссельбург</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Валерия</firstName>
+    <lastName>Экземплярская</lastName>
+    <univercity>Tomsk State University of Architecture and Building (1952)</univercity>
+    <faculty>Факультет искусств</faculty>
+    <profession>ФH5 Химия</profession>
+    <age>20</age>
+    <cource>4</cource>
+    <group>6</group>
+    <city>Павловск</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Ника</firstName>
+    <lastName>Лобова</lastName>
+    <univercity>Saint Petersburg State University of Economics and Finance (1930-2012)</univercity>
+    <faculty>Факультет наук о материалах</faculty>
+    <profession>ИУ5 Системы обработки информации и управления</profession>
+    <age>22</age>
+    <cource>1</cource>
+    <group>1</group>
+    <city>Райчихинск</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Елена</firstName>
+    <lastName>Прибылова</lastName>
+    <univercity>Moscow State University of Communication</univercity>
+    <faculty>Факультет политологии</faculty>
+    <profession>РК1 Инженерная графика</profession>
+    <age>19</age>
+    <cource>3</cource>
+    <group>19</group>
+    <city>Пушкин</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Анастасия</firstName>
+    <lastName>Бебчука</lastName>
+    <univercity>Moscow State Social University</univercity>
+    <faculty>Факультет мировой политики</faculty>
+    <profession>МТ5 Литейные технологии</profession>
+    <age>23</age>
+    <cource>6</cource>
+    <group>7</group>
+    <city>Гороховец</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Нина</firstName>
+    <lastName>Гаврикова</lastName>
+    <univercity>Yaroslavl State Pedogogical University</univercity>
+    <faculty>Факультет вычислительной математики и кибернетики</faculty>
+    <profession>РК5 Прикладная механика</profession>
+    <age>24</age>
+    <cource>1</cource>
+    <group>19</group>
+    <city>Коряжма</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Светлана</firstName>
+    <lastName>Бабченко</lastName>
+    <univercity>Bauman Kazan State Academy of Veterinary Medicine</univercity>
+    <faculty>Высшая школа государственного аудита (факультет)</faculty>
+    <profession>РК2 Теория механизмов и машин</profession>
+    <age>20</age>
+    <cource>4</cource>
+    <group>15</group>
+    <city>Снегири</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Раиса</firstName>
+    <lastName>Чучумашева</lastName>
+    <univercity>Omsk State Transport University (1961)</univercity>
+    <faculty>Механико–математический факультет </faculty>
+    <profession>Л2 Английский язык для приборостроительных специальностей</profession>
+    <age>20</age>
+    <cource>5</cource>
+    <group>5</group>
+    <city>Новая Ляля</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Эвелина</firstName>
+    <lastName>Мохова</lastName>
+    <univercity>Ural State Law Academy</univercity>
+    <faculty>Факультет глобальных процессов</faculty>
+    <profession>CМ7 Специальная робототехника и мехатроника</profession>
+    <age>20</age>
+    <cource>5</cource>
+    <group>8</group>
+    <city>Чердынь</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Алла</firstName>
+    <lastName>Добролюбова</lastName>
+    <univercity>Omsk Road-Transport Academy</univercity>
+    <faculty>Высшая школа инновационного бизнеса (факультет)</faculty>
+    <profession>СГН3Информационная аналитика и политические технологии</profession>
+    <age>20</age>
+    <cource>2</cource>
+    <group>3</group>
+    <city>Знаменск</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Майя</firstName>
+    <lastName>Койначёнок</lastName>
+    <univercity>Altai State University</univercity>
+    <faculty>Высшая школа бизнеса (факультет)</faculty>
+    <profession>РК9 Компьютерные системы автоматизации производства</profession>
+    <age>21</age>
+    <cource>4</cource>
+    <group>14</group>
+    <city>Зеленогорск</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Ариадна</firstName>
+    <lastName>Шибалкина</lastName>
+    <univercity>Saratov State Medical University</univercity>
+    <faculty>Специализированный учебно–научный центр (факультет) — школа–интернат имени А.Н. Колмогорова</faculty>
+    <profession>МТ2 Инструментальная техника и технологии</profession>
+    <age>23</age>
+    <cource>3</cource>
+    <group>1</group>
+    <city>Колпино</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Елизавета</firstName>
+    <lastName>Негуторова</lastName>
+    <univercity>All-Russian Academy of Foreign Trade</univercity>
+    <faculty>Факультет психологии</faculty>
+    <profession>CМ6 Ракетные и импульсные системы</profession>
+    <age>23</age>
+    <cource>2</cource>
+    <group>16</group>
+    <city>Каменка</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Каролина</firstName>
+    <lastName>Гогина</lastName>
+    <univercity>Moscow Aviation Institute (State Technical University)</univercity>
+    <faculty>Высшая школа культурной политики и управления в гуманитарной сфере (факультет)</faculty>
+    <profession>СГН1 История</profession>
+    <age>19</age>
+    <cource>3</cource>
+    <group>16</group>
+    <city>Зеленоград</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Полина</firstName>
+    <lastName>Березовская</lastName>
+    <univercity>Kazan State Technical University</univercity>
+    <faculty>Социологический факультет</faculty>
+    <profession>МТ6 Технологии обработки давлением</profession>
+    <age>20</age>
+    <cource>6</cource>
+    <group>10</group>
+    <city>Новотроицк</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Лилия</firstName>
+    <lastName>Гребнева</lastName>
+    <univercity>Vyatka State University of Humanities</univercity>
+    <faculty>Философский факультет</faculty>
+    <profession>CМ10 Колесные машины</profession>
+    <age>21</age>
+    <cource>3</cource>
+    <group>15</group>
+    <city>Духовщина</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Лада</firstName>
+    <lastName>Бухарова</lastName>
+    <univercity>Moscow State Industrial University</univercity>
+    <faculty>Исторический факультет</faculty>
+    <profession>Э3 Газотурбинные и нетрадиционные энергоустановки</profession>
+    <age>22</age>
+    <cource>4</cource>
+    <group>20</group>
+    <city>Сердобск</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Варвара</firstName>
+    <lastName>Филипова</lastName>
+    <univercity>International Academy for Business and New Technologies</univercity>
+    <faculty>Факультет почвоведения</faculty>
+    <profession>Э10 Гидромеханика, гидромашины и гидропневмоавтоматика</profession>
+    <age>18</age>
+    <cource>2</cource>
+    <group>4</group>
+    <city>Данилов</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Софья</firstName>
+    <lastName>Ярусова</lastName>
+    <univercity>Urals Academy of Architecture</univercity>
+    <faculty>Факультет журналистики</faculty>
+    <profession>РЛ6 Технологии приборостроения</profession>
+    <age>24</age>
+    <cource>1</cource>
+    <group>10</group>
+    <city>Щелкино</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Наталья</firstName>
+    <lastName>Сочеванова</lastName>
+    <univercity>Moscow State University of Food Productions</univercity>
+    <faculty>Высшая школа государственного администрирования (факультет)</faculty>
+    <profession>ИУ3 Информационные системы и телекоммуникации</profession>
+    <age>24</age>
+    <cource>4</cource>
+    <group>10</group>
+    <city>Сосногорск</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Галина</firstName>
+    <lastName>Шурдук</lastName>
+    <univercity>Moscow State Institute of Radio-engineering Electronics and Automation</univercity>
+    <faculty>Высшая школа бизнеса (факультет)</faculty>
+    <profession>МТ2 Инструментальная техника и технологии</profession>
+    <age>20</age>
+    <cource>4</cource>
+    <group>6</group>
+    <city>Грязовец</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Зоя</firstName>
+    <lastName>Ахтемирова</lastName>
+    <univercity>Siberian State Technological University (Russian abbreviation is SibGTU), the oldest in the city, founded in 1930 as the Siberian Institute of Forest</univercity>
+    <faculty>Факультет мировой политики</faculty>
+    <profession>СМ1 Космические аппараты и ракеты-носители</profession>
+    <age>24</age>
+    <cource>6</cource>
+    <group>3</group>
+    <city>Санкт-Петербург</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Рената</firstName>
+    <lastName>Шурупова</lastName>
+    <univercity>Moscow State University of Geodesy and Cartography</univercity>
+    <faculty>Университетская гимназия (школа-интернат)</faculty>
+    <profession>Э3 Газотурбинные и нетрадиционные энергоустановки</profession>
+    <age>22</age>
+    <cource>6</cource>
+    <group>14</group>
+    <city>Гай</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Владлена</firstName>
+    <lastName>Абдулова</lastName>
+    <univercity>Siberian Academy for Public Administration</univercity>
+    <faculty>Факультет наук о материалах</faculty>
+    <profession>РК3 Основы конструирования машин</profession>
+    <age>21</age>
+    <cource>3</cource>
+    <group>9</group>
+    <city>Рязань</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Мирослава</firstName>
+    <lastName>Котова</lastName>
+    <univercity>Siberian State University of Telecommunication and Information Sciences</univercity>
+    <faculty>Факультет фундаментальной медицины</faculty>
+    <profession>РК2 Теория механизмов и машин</profession>
+    <age>21</age>
+    <cource>4</cource>
+    <group>10</group>
+    <city>Демидов</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Маргарита</firstName>
+    <lastName>Кияк</lastName>
+    <univercity>Saint Petersburg State Medical University (1897)</univercity>
+    <faculty>Высшая школа культурной политики и управления в гуманитарной сфере (факультет)</faculty>
+    <profession>РЛ2 Лазерные и оптико-электронные системы</profession>
+    <age>24</age>
+    <cource>1</cource>
+    <group>1</group>
+    <city>Киров</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Ирина</firstName>
+    <lastName>Якимова</lastName>
+    <univercity>Penza State University</univercity>
+    <faculty>Исторический факультет</faculty>
+    <profession>ФH3 Теоретическая механика</profession>
+    <age>22</age>
+    <cource>5</cource>
+    <group>20</group>
+    <city>Михайловск</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Юнона</firstName>
+    <lastName>Яздовская</lastName>
+    <univercity>Moscow State University of Land Management</univercity>
+    <faculty>Биотехнологический факультет</faculty>
+    <profession>Э2 Поршневые двигатели</profession>
+    <age>24</age>
+    <cource>2</cource>
+    <group>19</group>
+    <city>Улан-Удэ</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Изабелла</firstName>
+    <lastName>Белоглазова</lastName>
+    <univercity>Higher Chemical College of the Russian Academy of Sciences</univercity>
+    <faculty>Факультет журналистики</faculty>
+    <profession>Э8 Плазменные энергетические установки</profession>
+    <age>23</age>
+    <cource>1</cource>
+    <group>11</group>
+    <city>Воркута</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Элеонора</firstName>
+    <lastName>Жигунова</lastName>
+    <univercity>Omsk State Technical University (1942)</univercity>
+    <faculty>Факультет педагогического образования</faculty>
+    <profession>CМ11 Подводные роботы и аппараты</profession>
+    <age>19</age>
+    <cource>5</cource>
+    <group>19</group>
+    <city>Сафоново</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Александра</firstName>
+    <lastName>Ложкина</lastName>
+    <univercity>Voronezh State Technical University</univercity>
+    <faculty>Высшая школа управления и инноваций (факультет)</faculty>
+    <profession>ИБМ2 Экономика и организация производства</profession>
+    <age>19</age>
+    <cource>4</cource>
+    <group>6</group>
+    <city>Ожерелье</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Валентина</firstName>
+    <lastName>Яфракова</lastName>
+    <univercity>Eastern Siberian State Technological University</univercity>
+    <faculty>Факультет фундаментальной медицины</faculty>
+    <profession>ФН2 Прикладная математика</profession>
+    <age>18</age>
+    <cource>5</cource>
+    <group>17</group>
+    <city>Торжок</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Марта</firstName>
+    <lastName>Бузинская</lastName>
+    <univercity>Chita State University of Medicine</univercity>
+    <faculty>Высшая школа культурной политики и управления в гуманитарной сфере (факультет)</faculty>
+    <profession>МТ5 Литейные технологии</profession>
+    <age>18</age>
+    <cource>6</cource>
+    <group>4</group>
+    <city>Подпорожье</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Инна</firstName>
+    <lastName>Николаева</lastName>
+    <univercity>Northern (Arctic) Federal University</univercity>
+    <faculty>Факультет иностранных языков и регионоведения</faculty>
+    <profession>СГН3Информационная аналитика и политические технологии</profession>
+    <age>23</age>
+    <cource>5</cource>
+    <group>13</group>
+    <city>Сураж</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Василиса</firstName>
+    <lastName>Содовская</lastName>
+    <univercity>Ivanovo State University</univercity>
+    <faculty>Факультет космических исследований</faculty>
+    <profession>ИУ1 Системы автоматического управления</profession>
+    <age>23</age>
+    <cource>6</cource>
+    <group>14</group>
+    <city>Туринск</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Юлия</firstName>
+    <lastName>Ястребенецкая</lastName>
+    <univercity>Kemerovo Technological Institute of Food Industry</univercity>
+    <faculty>Высшая школа управления и инноваций (факультет)</faculty>
+    <profession>CМ13 Ракетно-космические композиционные конструкции</profession>
+    <age>22</age>
+    <cource>5</cource>
+    <group>1</group>
+    <city>Озеры</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Альбина</firstName>
+    <lastName>Кирхенштейна</lastName>
+    <univercity>Tula State University</univercity>
+    <faculty>Институт стран Азии и Африки</faculty>
+    <profession>ИБМ4 Менеджмент</profession>
+    <age>22</age>
+    <cource>6</cource>
+    <group>2</group>
+    <city>Чайковский</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Регина</firstName>
+    <lastName>Шепкина</lastName>
+    <univercity>Moscow Academy for Tourism, Hotel and Catering Business</univercity>
+    <faculty>Экономический факультет</faculty>
+    <profession>ИУ3 Информационные системы и телекоммуникации</profession>
+    <age>21</age>
+    <cource>3</cource>
+    <group>15</group>
+    <city>Зубцов</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Нона</firstName>
+    <lastName>Чибисова</lastName>
+    <univercity>Orel State University</univercity>
+    <faculty>Институт стран Азии и Африки</faculty>
+    <profession>"ЮР Кафедра ""Юриспруденция, интеллектуальная собственность и судебная экспертиза"""</profession>
+    <age>23</age>
+    <cource>6</cource>
+    <group>13</group>
+    <city>Агрыз</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Стела</firstName>
+    <lastName>Артамонова</lastName>
+    <univercity>Moscow State Linguistic University</univercity>
+    <faculty>Факультет мировой политики</faculty>
+    <profession>МТ10 Оборудование и технологии прокатки</profession>
+    <age>24</age>
+    <cource>6</cource>
+    <group>4</group>
+    <city>Чудово</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Марина</firstName>
+    <lastName>Пелёвина</lastName>
+    <univercity>Voronezh State University (1918), successor to the University of Dorpat (founded 1802 or 1632)</univercity>
+    <faculty>Факультет фундаментальной медицины</faculty>
+    <profession>ФН7 Электротехника и промышленная электроника</profession>
+    <age>19</age>
+    <cource>3</cource>
+    <group>19</group>
+    <city>Поронайск</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Татьяна</firstName>
+    <lastName>Огородникова</lastName>
+    <univercity>Voronezh State Academy of Technology</univercity>
+    <faculty>Факультет мировой политики</faculty>
+    <profession>ФH5 Химия</profession>
+    <age>24</age>
+    <cource>4</cource>
+    <group>11</group>
+    <city>Южноуральск</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Пелагея</firstName>
+    <lastName>Малахова</lastName>
+    <univercity>Moscow State University of Geodesy and Cartography</univercity>
+    <faculty>Факультет почвоведения</faculty>
+    <profession>ФH4 Физика</profession>
+    <age>21</age>
+    <cource>4</cource>
+    <group>3</group>
+    <city>Красноперекопск</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Клара</firstName>
+    <lastName>Колесова</lastName>
+    <univercity>Ulyanovsk State Agricultural Academy</univercity>
+    <faculty>Московская школа экономики (факультет)</faculty>
+    <profession>CМ6 Ракетные и импульсные системы</profession>
+    <age>20</age>
+    <cource>1</cource>
+    <group>7</group>
+    <city>Котовск</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Янина</firstName>
+    <lastName>Щеткина</lastName>
+    <univercity>Academic Law University of the Institute of State and Law of the Russian Academy of Sciences</univercity>
+    <faculty>Факультет космических исследований</faculty>
+    <profession>CМ7 Специальная робототехника и мехатроника</profession>
+    <age>24</age>
+    <cource>2</cource>
+    <group>1</group>
+    <city>Пущино</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Изольда</firstName>
+    <lastName>Тихоход</lastName>
+    <univercity>Yakutsk State University (1956)</univercity>
+    <faculty>Высшая школа телевидения (факультет)</faculty>
+    <profession>МТ3 Технологии машиностроения</profession>
+    <age>24</age>
+    <cource>1</cource>
+    <group>1</group>
+    <city>Задонск</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Ольга</firstName>
+    <lastName>Ялчевская</lastName>
+    <univercity>Siberian Academy for Public Administration</univercity>
+    <faculty>Механико–математический факультет </faculty>
+    <profession>ИБМ4 Менеджмент</profession>
+    <age>23</age>
+    <cource>3</cource>
+    <group>8</group>
+    <city>Янаул</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Роза</firstName>
+    <lastName>Киселёва</lastName>
+    <univercity>Belgorod State Technological Academy of Construction Materials</univercity>
+    <faculty>Биотехнологический факультет</faculty>
+    <profession>МТ7 Технологии сварки и диагностики</profession>
+    <age>21</age>
+    <cource>3</cource>
+    <group>19</group>
+    <city>Свободный</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Агафья</firstName>
+    <lastName>Якимовская</lastName>
+    <univercity>Siberian State Medical University (1888)</univercity>
+    <faculty>Факультет журналистики</faculty>
+    <profession>CМ12 Технологии ракетно-космического машиностроения</profession>
+    <age>20</age>
+    <cource>4</cource>
+    <group>11</group>
+    <city>Спасск-Дальний</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Агния</firstName>
+    <lastName>Хвостовская</lastName>
+    <univercity>Saint Petersburg Institute of Trade and Economics</univercity>
+    <faculty>Механико–математический факультет </faculty>
+    <profession>ИУ1 Системы автоматического управления</profession>
+    <age>18</age>
+    <cource>2</cource>
+    <group>8</group>
+    <city>Сызрань</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Ева</firstName>
+    <lastName>Гребенщикова</lastName>
+    <univercity>Yaroslavl State Technical University</univercity>
+    <faculty>Высшая школа современных социальных наук (факультет)</faculty>
+    <profession>Л4 Романо-германские языки</profession>
+    <age>22</age>
+    <cource>5</cource>
+    <group>2</group>
+    <city>Петергоф</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Лиана</firstName>
+    <lastName>Ящук</lastName>
+    <univercity>St. Petersburg Institute of Jewish Studies</univercity>
+    <faculty>Факультет вычислительной математики и кибернетики</faculty>
+    <profession>РК6 Системы автоматизированного проектирования</profession>
+    <age>18</age>
+    <cource>3</cource>
+    <group>16</group>
+    <city>Рассказово</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Оксана</firstName>
+    <lastName>Нилина</lastName>
+    <univercity>Barnaul State Pedagogical University</univercity>
+    <faculty>Высшая школа современных социальных наук (факультет)</faculty>
+    <profession>ФH12 Математическое моделирование</profession>
+    <age>21</age>
+    <cource>1</cource>
+    <group>5</group>
+    <city>Каменка</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Эмилия</firstName>
+    <lastName>Аронова</lastName>
+    <univercity>Samara State Aerospace University</univercity>
+    <faculty>Институт стран Азии и Африки</faculty>
+    <profession>БМТ1 Биомедицинские технические системы</profession>
+    <age>20</age>
+    <cource>1</cource>
+    <group>12</group>
+    <city>Верхняя Тура</city>
+  </StudentSerializable>
+  <StudentSerializable>
+    <firstName>Инга</firstName>
+    <lastName>Астахова</lastName>
+    <univercity>Saint Petersburg State Agrarian University (1904)</univercity>
+    <faculty>Факультет мировой политики</faculty>
+    <profession>РК1 Инженерная графика</profession>
+    <age>23</age>
+    <cource>6</cource>
+    <group>15</group>
+    <city>Екатеринбург</city>
+  </StudentSerializable>
+</ArrayOfStudentSerializable>

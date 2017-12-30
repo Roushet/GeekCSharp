@@ -25,27 +25,23 @@ namespace WpfApp1
             InitializeComponent();
         }
 
-        private void StudentCSV2XML_Drop(object sender, DragEventArgs e)
-        {
 
-        }
-
-        private void Rectangle_Drop(object sender, DragEventArgs e)
+        private void xmlAddressReader_Drop(object sender, DragEventArgs e)
         {
             if (e.Data.GetDataPresent(DataFormats.FileDrop))
             {
-                // Note that you can have more than one file.
+                // получает список файлов типа ЦСВ и все какие может перегоняет в ХМЛ
                 string[] files = (string[])e.Data.GetData(DataFormats.FileDrop);
 
-                // Assuming you have one file that you care about, pass it off to whatever
-                // handling code you have defined.
-                Console.WriteLine(files[0]);
-            }
-        }
 
-        private void StudentCSV2XML_SizeChanged(object sender, SizeChangedEventArgs e)
-        {
-            //сделать изменение размеров области приёма файлов
+                foreach (string address in files)
+                {
+                    if (!ConvertController.Convert(address))
+                        MessageBox.Show(String.Format($"Не удалось сконвертировать файл:\n{address}"));
+                    else
+                        MessageBox.Show(String.Format($"Файл сконвертирован:\n{address}"));
+                }
+            }
         }
     }
 }

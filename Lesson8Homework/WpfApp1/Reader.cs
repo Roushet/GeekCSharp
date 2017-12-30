@@ -1,12 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
+using System.IO;
 
 namespace WpfApp1
 {
-    class Reader
+    static class Reader
     {
+        public static IEnumerable<string> ReadStringFromfile(string address)
+        {
+            IEnumerable<string> output;
+            output = File.ReadLines(address, System.Text.Encoding.Default);
+            //foreach (var str in output) System.Console.WriteLine(str);
+            return output;
+        }
     }
 }

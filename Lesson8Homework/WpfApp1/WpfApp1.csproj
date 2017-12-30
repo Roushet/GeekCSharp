@@ -54,8 +54,8 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="ConvertController.cs" />
     <Compile Include="Reader.cs" />
-    <Compile Include="StudentList.cs" />
     <Compile Include="StudentSerializable.cs" />
     <Compile Include="XMLWriter.cs" />
     <Page Include="MainWindow.xaml">
